@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": ["music.126.net", "music.163.com"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "ip_cidr": ["185.199.108.0/22", "162.159.200.1/32", "162.159.200.123/32"]
+    }
+  ]
+}

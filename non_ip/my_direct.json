@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [
+        "torrentmac.net",
+        "download.555mac.com",
+        "engage.cloudflareclient.com",
+        "ec2-reachability.amazonaws.com"
+      ],
+      "domain_keyword": ["mac-torrent-download"],
+      "process_name": ["AdGuardHome", "nmap"]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [
+        "aaplimg.com",
+        "apple-dns.net",
+        "apple.co",
+        "apple.com",
+        "appstore.com",
+        "cdn-apple.com",
+        "crashlytics.com",
+        "icloud.com",
+        "icloud-content.com",
+        "me.com",
+        "organicfruitapps.com",
+        "apple-cloudkit.com",
+        "apple-mapkit.com",
+        "appsto.re",
+        "itunes.com",
+        "apple.news",
+        "push-apple.com.akadns.net"
+      ],
+      "process_name": [
+        "trustd",
+        "netbiosd",
+        "com.apple.geod",
+        "mapspushd",
+        "com.apple.Maps",
+        "apsd",
+        "fmfd",
+        "findmydevice-user-agent",
+        "CoreLocationAgent",
+        "WeatherWidget"
+      ]
+    }
+  ]
+}

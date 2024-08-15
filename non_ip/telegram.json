@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [
+        "t.me",
+        "tx.me",
+        "tg.dev",
+        "tdesktop.com",
+        "telegra.ph",
+        "telega.one",
+        "telegram.me",
+        "telegram.org",
+        "telegram.dog",
+        "telegram.space",
+        "graph.org",
+        "legra.ph",
+        "telesco.pe",
+        "cdn-telegram.org"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "hanime1.me",
+        "copymanga.site"
+      ],
+      "domain_suffix": ["18comic.vip", "mandaom.com"]
+    }
+  ]
+}

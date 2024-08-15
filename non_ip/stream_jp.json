@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [
+        "dmm.co.jp",
+        "dmm.com",
+        "dmm-extension.com",
+        "abema.io",
+        "abema.tv",
+        "ameba.jp",
+        "abema-tv.com",
+        "hayabusa.dev",
+        "hayabusa.io",
+        "hayabusa.media",
+        "amebame.com",
+        "amebaownd.com",
+        "amebaowndme.com",
+        "ameblo.jp",
+        "dokusho-ojikan.jp",
+        "winticket.jp",
+        "dmc.nico",
+        "nicovideo.jp",
+        "asset.domand.nicovideo.jp",
+        "socdm.com",
+        "happyon.jp",
+        "hjholdings.jp",
+        "hulu.jp",
+        "tver.jp"
+      ],
+      "domain_keyword": ["abematv.akamaized.net"]
+    }
+  ]
+}

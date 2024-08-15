@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "ai.google.dev",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "gateway.ai.cloudflare.com"
+      ],
+      "domain_suffix": [
+        "openai.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "chatgpt.com",
+        "ai.com",
+        "x.ai",
+        "perplexity.ai",
+        "anthropic.com",
+        "claude.ai",
+        "bard.google.com",
+        "gemini.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "generativelanguage.googleapis.com",
+        "geller-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "makersuite.google.com",
+        "generativeai.google",
+        "poe.com",
+        "meta.ai"
+      ],
+      "domain_keyword": ["openai"]
+    }
+  ]
+}
