@@ -32,7 +32,8 @@
         "^video[a-zA-Z0-9-_.]-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
         "^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
         "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.2nt\\.com$",
-        "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.fc2\\.com$"
+        "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.fc2\\.com$",
+        "^rr1---[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.ouo\\.si$"
       ]
     }
   ]
