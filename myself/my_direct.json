@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "oaifree.com"
+        "oaifree.com",
+        "oaiusercontent.com"
       ]
     }
   ]
