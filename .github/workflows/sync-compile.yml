@@ -24,10 +24,11 @@ jobs:
 
     - name: Install sing-box
       run: |
-        curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.10.0-beta.3/sing-box-1.10.0-beta.3-linux-amd64.tar.gz
+        echo "SING_BOX_VERSION=1.10.0-beta.4" >> $GITHUB_ENV
+        curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz
         tar -xzf sing-box.tar.gz
-        chmod +x sing-box-1.10.0-beta.3-linux-amd64/sing-box
-        sudo mv sing-box-1.10.0-beta.3-linux-amd64/sing-box /usr/local/bin/sing-box
+        chmod +x sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box
+        sudo mv sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
         sing-box version
 
     - name: Fetch and Compile Sing-Box Rules from ruleset
@@ -37,7 +38,7 @@ jobs:
         git checkout ruleset/master -- sing-box
         rm -rf domainset ip non_ip
         mv sing-box/* ./
-        rm -rf sing-box sing-box-1.10.0-beta.3-linux-amd64 sing-box.tar.gz
+        rm -rf sing-box sing-box-${SING_BOX_VERSION}-linux-amd64 sing-box.tar.gz
         find . -type f -name "*.srs" -exec rm -f {} \;
         find . -type f -name "*.json" -exec bash -c '
         echo "Compiling: $1"
