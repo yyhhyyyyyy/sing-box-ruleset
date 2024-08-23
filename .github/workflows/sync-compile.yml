@@ -9,6 +9,9 @@ on:
 permissions:
   contents: write
 
+env:
+  SING_BOX_VERSION: 1.10.0-beta.4
+
 jobs:
   sync_and_compile:
     runs-on: ubuntu-latest
@@ -24,7 +27,6 @@ jobs:
 
     - name: Install sing-box
       run: |
-        echo "SING_BOX_VERSION=1.10.0-beta.4" >> $GITHUB_ENV
         curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz
         tar -xzf sing-box.tar.gz
         chmod +x sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box
