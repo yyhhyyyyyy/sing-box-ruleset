@@ -26,10 +26,17 @@
         "generativelanguage.googleapis.com",
         "geller-pa.googleapis.com",
         "proactivebackend-pa.googleapis.com",
+        "aistudio.google.com",
         "makersuite.google.com",
         "generativeai.google",
+        "notebooklm.google",
+        "notebooklm.google.com",
         "poe.com",
-        "meta.ai"
+        "meta.ai",
+        "dify.ai",
+        "clipdrop.co",
+        "jasper.ai",
+        "openart.ai"
       ],
       "domain_keyword": ["openai"]
     }
