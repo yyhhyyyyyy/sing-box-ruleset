@@ -4,20 +4,20 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
-        "t.me",
-        "tx.me",
-        "tg.dev",
-        "tdesktop.com",
-        "telegra.ph",
-        "telega.one",
-        "telegram.me",
-        "telegram.org",
-        "telegram.dog",
-        "telegram.space",
-        "graph.org",
-        "legra.ph",
         "telesco.pe",
-        "cdn-telegram.org"
+        "telegram.space",
+        "telegram.dog",
+        "cdn-telegram.org",
+        "graph.org",
+        "telegram.org",
+        "telega.one",
+        "legra.ph",
+        "telegra.ph",
+        "tdesktop.com",
+        "tg.dev",
+        "telegram.me",
+        "tx.me",
+        "t.me"
       ]
     }
   ]

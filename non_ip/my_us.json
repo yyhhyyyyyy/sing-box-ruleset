@@ -4,10 +4,10 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "hanime1.me",
-        "copymanga.site"
+        "copymanga.site",
+        "hanime1.me"
       ],
-      "domain_suffix": ["18comic.vip", "mandaom.com", "crunchyroll.com"]
+      "domain_suffix": ["crunchyroll.com", "mandaom.com", "18comic.vip"]
     }
   ]
 }

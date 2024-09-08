@@ -4,23 +4,23 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "this_rule_set_is_made_by_sukkaw.skk.moe",
-        "stun.smartgslb.com",
-        "api-js.mixpanel.com",
+        "js.iterable.com",
         "api.iterable.com",
-        "js.iterable.com"
+        "api-js.mixpanel.com",
+        "stun.smartgslb.com",
+        "this_rule_set_is_made_by_sukkaw.skk.moe"
       ],
       "domain_suffix": [
-        "openx.net",
-        "telemetry-coverage.mozilla.org",
-        "telemetry.mozilla.org",
-        "incoming-telemetry.thunderbird.net",
-        "crazyegg.com",
-        "amplitude.com",
-        "advertising.com",
         "net.mydays.de",
+        "telemetry.mozilla.org",
+        "telemetry-coverage.mozilla.org",
+        "incoming-telemetry.thunderbird.net",
+        "openx.net",
+        "notify6.com",
         "notifysrv.com",
-        "notify6.com"
+        "advertising.com",
+        "amplitude.com",
+        "crazyegg.com"
       ],
       "domain_keyword": [
         ".estream.",

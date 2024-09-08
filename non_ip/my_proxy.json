@@ -4,15 +4,15 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe", "ip.cn"],
       "domain_suffix": [
-        "ip.sb",
-        "ip-api.com",
-        "ipdata.co",
+        "nextdns.io",
+        "ipgeolocation.io",
         "ipwho.is",
         "ipregistry.co",
-        "ipgeolocation.io",
-        "db-ip.com",
+        "ipdata.co",
         "ipstack.com",
-        "nextdns.io",
+        "db-ip.com",
+        "ip-api.com",
+        "ip.sb",
         "services.googleapis.cn"
       ]
     }

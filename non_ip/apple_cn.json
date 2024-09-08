@@ -8,12 +8,12 @@
         "gs-loc-cn.apple.com"
       ],
       "domain_suffix": [
-        "cn.apple.com",
-        "apple.com.cn",
-        "cn.ls.apple.com",
-        "cn-ssl.ls.apple.com",
         "icloud.com.cn",
-        "gspe19-cn-ssl.ls.apple.com"
+        "apple.com.cn",
+        "gspe19-cn-ssl.ls.apple.com",
+        "cn-ssl.ls.apple.com",
+        "cn.ls.apple.com",
+        "cn.apple.com"
       ]
     }
   ]

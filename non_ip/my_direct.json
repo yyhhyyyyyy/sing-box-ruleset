@@ -4,10 +4,10 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
-        "torrentmac.net",
-        "download.555mac.com",
+        "ec2-reachability.amazonaws.com",
         "engage.cloudflareclient.com",
-        "ec2-reachability.amazonaws.com"
+        "download.555mac.com",
+        "torrentmac.net"
       ],
       "domain_keyword": ["mac-torrent-download"],
       "process_name": ["AdGuardHome", "nmap"]

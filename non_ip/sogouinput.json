@@ -4,17 +4,17 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "otheve.beacon.qq.com",
-        "oth.str.mdt.qq.com"
+        "oth.str.mdt.qq.com",
+        "otheve.beacon.qq.com"
       ],
       "domain_suffix": [
-        "get.sogou.com",
-        "shouji.sogou.com",
-        "account.sogou.com",
-        "pinyin.sogou.com",
-        "ime.sogou.com",
+        "sginput.qq.com",
         "macime.sogou.com",
-        "sginput.qq.com"
+        "ime.sogou.com",
+        "pinyin.sogou.com",
+        "account.sogou.com",
+        "shouji.sogou.com",
+        "get.sogou.com"
       ],
       "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"]
     }
