@@ -2,7 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe", "ip.cn"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "fonts.gstatic.cn",
+        "fonts.googleapis.cn",
+        "ip.cn"
+      ],
       "domain_suffix": [
         "nextdns.io",
         "ipgeolocation.io",

@@ -29,6 +29,7 @@
         "^static-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]-cdn\\.eporner\\.com$",
         "^file[a-zA-Z0-9-_.]\\.mikuclub\\.fun$",
         "^cdn[a-zA-Z0-9-_.]\\.mikuclub\\.fun$",
+        "^cdns\\.[a-zA-Z0-9-_.]*?\\.gigya\\.com$",
         "^video[a-zA-Z0-9-_.]-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
         "^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
         "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.2nt\\.com$",
