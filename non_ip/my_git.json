@@ -8,7 +8,7 @@
         "github.com",
         "api.github.com"
       ],
-      "domain_suffix": ["huggingface.co"]
+      "domain_suffix": ["githubcopilot.com", "huggingface.co"]
     }
   ]
 }
