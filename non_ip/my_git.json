@@ -6,6 +6,7 @@
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "gitlab.com",
         "github.com",
+        "alive.github.com",
         "api.github.com"
       ],
       "domain_suffix": ["githubcopilot.com", "huggingface.co"]
