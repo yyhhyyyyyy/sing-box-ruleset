@@ -35,7 +35,12 @@
         "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.2nt\\.com$",
         "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.fc2\\.com$",
         "^rr1---[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.ouo\\.si$",
-        "^ffzy-online[a-zA-Z0-9-_.]\\.com$"
+        "^ffzy-online[a-zA-Z0-9-_.]\\.com$",
+        "^ffzy-play[a-zA-Z0-9-_.]\\.com$",
+        "^kuaikan-cdn[a-zA-Z0-9-_.]\\.com$",
+        "^lz-cdn[a-zA-Z0-9-_.]\\.com$",
+        "^lz-cdn[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.com$",
+        "^fsvod[a-zA-Z0-9-_.]\\.com$"
       ]
     }
   ]
