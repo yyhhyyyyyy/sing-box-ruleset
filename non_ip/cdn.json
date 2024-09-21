@@ -7,6 +7,7 @@
         "cdn-msp.jmcomic.me",
         "cdn-msp.18comic.vip"
       ],
+      "domain_suffix": [],
       "domain_keyword": [
         "-files.gitbook.io",
         "vod-adaptive.akamaized.net",
@@ -41,7 +42,10 @@
         "^lz-cdn[a-zA-Z0-9-_.]\\.com$",
         "^lz-cdn[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.com$",
         "^fsvod[a-zA-Z0-9-_.]\\.com$"
-      ]
+      ],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

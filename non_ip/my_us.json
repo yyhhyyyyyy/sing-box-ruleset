@@ -4,11 +4,16 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "hanime1.me",
         "www.coinbase.com",
-        "copymanga.site",
-        "hanime1.me"
+        "copymanga.site"
       ],
-      "domain_suffix": ["crunchyroll.com", "mandaom.com", "18comic.vip"]
+      "domain_suffix": ["18comic.vip", "mandaom.com", "crunchyroll.com"],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

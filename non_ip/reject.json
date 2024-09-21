@@ -4,24 +4,24 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "this_rule_set_is_made_by_sukkaw.skk.moe",
         "js.iterable.com",
         "api.iterable.com",
         "api-js.mixpanel.com",
-        "stun.smartgslb.com",
-        "this_rule_set_is_made_by_sukkaw.skk.moe"
+        "stun.smartgslb.com"
       ],
       "domain_suffix": [
         "net.mydays.de",
+        "openx.net",
+        "omtrdc.net",
         "telemetry.mozilla.org",
         "telemetry-coverage.mozilla.org",
-        "omtrdc.net",
-        "incoming-telemetry.thunderbird.net",
-        "openx.net",
         "notify6.com",
+        "crazyegg.com",
+        "amplitude.com",
         "notifysrv.com",
         "advertising.com",
-        "amplitude.com",
-        "crazyegg.com"
+        "incoming-telemetry.thunderbird.net"
       ],
       "domain_keyword": [
         ".estream.",
@@ -50,7 +50,6 @@
         "admaster",
         "adserve2",
         "admob",
-        "adserver",
         "adspace",
         "advertmarket",
         "adsyndication",
@@ -80,7 +79,10 @@
         "^adv0[a-zA-Z0-9-_.]*?\\.msa\\.cdn\\.mediaset\\.net$",
         "^beacons[a-zA-Z0-9-_.]*?\\.gvt[a-zA-Z0-9-_.]\\.com$",
         "^[a-zA-Z0-9-_.]*?ad\\.ixigua\\.com$"
-      ]
+      ],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

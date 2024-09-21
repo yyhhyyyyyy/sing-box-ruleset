@@ -4,12 +4,15 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
-        "engage.cloudflareclient.com",
         "download.555mac.com",
-        "torrentmac.net"
+        "torrentmac.net",
+        "engage.cloudflareclient.com"
       ],
       "domain_keyword": ["mac-torrent-download"],
-      "process_name": ["AdGuardHome", "nmap"]
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": ["AdGuardHome", "nmap"],
+      "process_path": []
     }
   ]
 }

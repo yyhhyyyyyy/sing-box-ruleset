@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "s3.c.im",
         "img.m.mw",
         "s3.m.0x.mk",
@@ -303,7 +302,10 @@
         "static.axios.com",
         "pkgs.dev.azure.com",
         "amp.azure.net",
+        "dh-site.b-cdn.net",
+        "divhunt.b-cdn.net",
         "linuxiac.b-cdn.net",
+        "divhunt-site.b-cdn.net",
         "panel-production-libs.b-cdn.net",
         "images.bfmtv.com",
         "img.biguz.net",
@@ -594,13 +596,10 @@
         "images.nvidia.com",
         "pbc.nypost.com",
         "mstdn-s3.o3o.studio",
-        "res.cdn.office.net",
         "cdn.forms.office.net",
         "cdn.graph.office.net",
-        "res-1.cdn.office.net",
         "shell.cdn.office.net",
         "res-geo.cdn.office.net",
-        "statics.teams.cdn.office.net",
         "static.oklink.com",
         "static.opensea.io",
         "static.oracle.com",
@@ -721,6 +720,7 @@
         "badges.crowdin.net",
         "cdn.datdota.com",
         "s1.divhunt.com",
+        "global.divhunt.com",
         "static.doujins.com",
         "cdn.download.it",
         "badbits.dwebops.pub",
@@ -786,6 +786,7 @@
         "minotar.net",
         "images.moegoat.com",
         "static.moegoat.com",
+        "static.moonpay.com",
         "opt.moovweb.net",
         "stubdownloader.services.mozilla.com",
         "firefox.settings.services.mozilla.com",
@@ -1243,6 +1244,7 @@
         "f.convertkit.com",
         "media.convertkit.com",
         "assets.convertkit.com",
+        "images.crunchbase.com",
         "cdn.datatables.net",
         "a.deviantart.net",
         "e.deviantart.net",
@@ -1305,6 +1307,7 @@
         "static.mytonwallet.io",
         "cdn.nerdschalk.com",
         "optimizely.com",
+        "cms.payloadcms.com",
         "m-cdn.phonearena.com",
         "s-cdn.phonearena.com",
         "cdn.pickystory.com",
@@ -1490,6 +1493,7 @@
         "media.infosec.exchange",
         "proxy.joinmastodon.org",
         "files.mastodon.ktachibana.party",
+        "static.launchdarkly.com",
         "cdn-c.leavemealone.com",
         "icons.leavemealone.com",
         "assets.lemonsqueezy.com",
@@ -1539,6 +1543,7 @@
         "cdn.recovermycart.com",
         "cdn.shoppinggives.com",
         "assets.static-upwork.com",
+        "js.verygoodvault.com",
         "cms-assets.webediamovies.pro",
         "cdn.windowsreport.com",
         "userimg.customeriomail.com",
@@ -1603,7 +1608,8 @@
         "runkit-packages-static.com",
         "useruploads.visualwebsiteoptimizer.com",
         "cdn-a.sonyentertainmentnetwork.com",
-        "runkit-packages-static-executables.com"
+        "runkit-packages-static-executables.com",
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
         "esm.sh",
@@ -1652,6 +1658,7 @@
         "web.app",
         "webp.se",
         "ipfs.xoqq.ch",
+        "telemetry.services.yofi.ai",
         "z4a.net",
         "4cdn.org",
         "7mmtv.tv",
@@ -1900,6 +1907,7 @@
         "lzzyimg.com",
         "lzzypic.com",
         "mktgcdn.com",
+        "push.services.mozilla.com",
         "cdn.mozilla.net",
         "itsre-sumo.mozilla.net",
         "ipfs.namebase.io",
@@ -2124,6 +2132,7 @@
         "nincontent.com",
         "ninjastream.to",
         "nowestatic.com",
+        "payloadcms.app",
         "placewaifu.com",
         "pstorage.space",
         "readthedocs.io",
@@ -2317,3 +2326,4 @@
     }
   ]
 }
+

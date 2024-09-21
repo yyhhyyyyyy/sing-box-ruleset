@@ -8,13 +8,18 @@
         "gs-loc-cn.apple.com"
       ],
       "domain_suffix": [
-        "icloud.com.cn",
-        "apple.com.cn",
-        "gspe19-cn-ssl.ls.apple.com",
-        "cn-ssl.ls.apple.com",
+        "cn.apple.com",
         "cn.ls.apple.com",
-        "cn.apple.com"
-      ]
+        "cn-ssl.ls.apple.com",
+        "gspe19-cn-ssl.ls.apple.com",
+        "apple.com.cn",
+        "icloud.com.cn"
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

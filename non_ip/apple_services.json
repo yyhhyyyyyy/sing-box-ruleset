@@ -4,24 +4,27 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
-        "apple.news",
-        "appsto.re",
+        "me.com",
         "apple.co",
+        "apple.com",
+        "appsto.re",
         "push-apple.com.akadns.net",
-        "apple-dns.net",
+        "apple.news",
+        "icloud.com",
         "itunes.com",
+        "aaplimg.com",
+        "appstore.com",
+        "apple-dns.net",
+        "cdn-apple.com",
+        "crashlytics.com",
         "apple-mapkit.com",
         "apple-cloudkit.com",
-        "organicfruitapps.com",
-        "me.com",
         "icloud-content.com",
-        "icloud.com",
-        "crashlytics.com",
-        "cdn-apple.com",
-        "appstore.com",
-        "apple.com",
-        "aaplimg.com"
+        "organicfruitapps.com"
       ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
       "process_name": [
         "trustd",
         "netbiosd",
@@ -33,7 +36,8 @@
         "findmydevice-user-agent",
         "CoreLocationAgent",
         "WeatherWidget"
-      ]
+      ],
+      "process_path": []
     }
   ]
 }

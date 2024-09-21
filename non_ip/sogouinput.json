@@ -9,14 +9,18 @@
       ],
       "domain_suffix": [
         "sginput.qq.com",
-        "macime.sogou.com",
+        "get.sogou.com",
         "ime.sogou.com",
+        "macime.sogou.com",
         "pinyin.sogou.com",
-        "account.sogou.com",
         "shouji.sogou.com",
-        "get.sogou.com"
+        "account.sogou.com"
       ],
-      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"]
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"],
+      "process_path": []
     }
   ]
 }

@@ -4,35 +4,40 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "hv-monster-submit.skk.moe",
         "npm.io",
-        "cdn-ms.cosplayeringoodfunk.me",
-        "static-cdn.bytegiftia.top",
+        "hv-monster-submit.skk.moe",
+        "cdn.kin6c1.com",
         "api.wakatime.com",
-        "cdn.kin6c1.com"
+        "static-cdn.bytegiftia.top",
+        "cdn-ms.cosplayeringoodfunk.me"
       ],
       "domain_suffix": [
-        "vplay.life",
-        "myvideos.info",
-        "yle888.vip",
+        "mapi.4kvm.net",
         "szjal.cn",
-        "rrcdnbf3.com",
-        "ffzy888.com",
-        "hey10.cjkypo.com",
-        "tokyvideo.com",
-        "cdn.iz8qkg.com",
-        "img.haiwaikan.com",
-        "wolongcdnm3u8.com",
-        "ceres9350.com",
-        "wolongzywcdn3.com",
         "cdn.efhie.com",
-        "hdzyk-cdn.com",
+        "hey10.cjkypo.com",
         "fsvod1.com",
-        "whweitao.com",
+        "cdn.iz8qkg.com",
         "v82u1l.com",
+        "vplay.life",
+        "yle888.vip",
+        "ffzy888.com",
+        "rrcdnbf3.com",
+        "whweitao.com",
+        "ceres9350.com",
+        "img.haiwaikan.com",
+        "hdzyk-cdn.com",
         "image8899.net",
-        "mapi.4kvm.net"
-      ]
+        "myvideos.info",
+        "tokyvideo.com",
+        "wolongcdnm3u8.com",
+        "wolongzywcdn3.com"
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

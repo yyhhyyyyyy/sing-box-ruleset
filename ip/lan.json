@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain_suffix": [],
+      "domain_keyword": [],
+      "domain_regex": [],
       "ip_cidr": [
         "0.0.0.0/8",
         "10.0.0.0/8",
@@ -15,7 +18,9 @@
         "::1/128",
         "fc00::/7",
         "fe80::/10"
-      ]
+      ],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

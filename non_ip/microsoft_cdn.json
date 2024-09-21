@@ -4,24 +4,31 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "res.cdn.office.net"
+        "res.cdn.office.net",
+        "res-1.cdn.office.net",
+        "statics.teams.cdn.office.net"
       ],
       "domain_suffix": [
-        "download.windowsupdate.com",
-        "ctldl.windowsupdate.com",
-        "cn.windowssearch.com",
-        "download.visualstudio.microsoft.com",
-        "download.prss.microsoft.com",
-        "storeedgefd.dsx.mp.microsoft.com",
-        "dl.delivery.mp.microsoft.com",
-        "wscont2.apps.microsoft.com",
-        "wscont1.apps.microsoft.com",
-        "officecdn.microsoft.com",
-        "download.microsoft.com",
-        "build.microsoft.com",
+        "fs.microsoft.com",
         "sdx.microsoft.com",
-        "fs.microsoft.com"
-      ]
+        "build.microsoft.com",
+        "download.microsoft.com",
+        "officecdn.microsoft.com",
+        "wscont1.apps.microsoft.com",
+        "wscont2.apps.microsoft.com",
+        "download.prss.microsoft.com",
+        "dl.delivery.mp.microsoft.com",
+        "storeedgefd.dsx.mp.microsoft.com",
+        "download.visualstudio.microsoft.com",
+        "cn.windowssearch.com",
+        "ctldl.windowsupdate.com",
+        "download.windowsupdate.com"
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

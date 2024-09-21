@@ -4,12 +4,17 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "gitlab.com",
         "github.com",
+        "api.github.com",
         "alive.github.com",
-        "api.github.com"
+        "gitlab.com"
       ],
-      "domain_suffix": ["githubcopilot.com", "huggingface.co"]
+      "domain_suffix": ["huggingface.co", "githubcopilot.com"],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

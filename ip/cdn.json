@@ -3,7 +3,12 @@
   "rules": [
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "ip_cidr": ["185.199.108.0/22", "162.159.200.1/32", "162.159.200.123/32"]
+      "domain_suffix": [],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": ["185.199.108.0/22", "162.159.200.1/32", "162.159.200.123/32"],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

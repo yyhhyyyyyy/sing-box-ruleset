@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "dl.ui.com",
         "releases.arc.net",
         "formulae.brew.sh",
@@ -160,6 +159,7 @@
         "packages.linuxmint.com",
         "packages.microsoft.com",
         "amupdatedl.microsoft.com",
+        "cdn.winget.microsoft.com",
         "amupdatedl2.microsoft.com",
         "amupdatedl3.microsoft.com",
         "amupdatedl4.microsoft.com",
@@ -211,7 +211,8 @@
         "get.pixelexperience.org",
         "download.pixelexperience.org",
         "objects.githubusercontent.com",
-        "pkg-containers.githubusercontent.com"
+        "pkg-containers.githubusercontent.com",
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
         "cdn.ea.com",
@@ -592,3 +593,4 @@
     }
   ]
 }
+
