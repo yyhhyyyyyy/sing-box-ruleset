@@ -6,7 +6,7 @@
       "domain_suffix": [],
       "domain_keyword": [],
       "domain_regex": [],
-      "ip_cidr": ["162.14.0.0/18", "140.205.1.0/24"],
+      "ip_cidr": ["140.205.1.0/24", "162.14.0.0/18"],
       "process_name": [],
       "process_path": []
     }
