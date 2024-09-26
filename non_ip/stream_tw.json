@@ -21,7 +21,6 @@
         "bahamut.akamaized.net",
         "hboasialive.akamaized.net",
         "hbogoprod-vod.akamaized.net",
-        "p-bstarstatic.akamaized.net",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net",
         "s3-ap-southeast-1.amazonaws.com",
@@ -29,8 +28,7 @@
         "hbolb.onwardsmg.com",
         "players.brightcove.net",
         "dai3fd1oh325y.cloudfront.net",
-        "d3c7rimkq79yfu.cloudfront.net",
-        "p.bstarstatic.com"
+        "d3c7rimkq79yfu.cloudfront.net"
       ],
       "domain_suffix": [
         "4gtv.tv",

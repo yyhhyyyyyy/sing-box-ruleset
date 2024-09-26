@@ -16,7 +16,6 @@
         "hbounify-prod.evergent.com",
         "hboasialive.akamaized.net",
         "hbogoprod-vod.akamaized.net",
-        "p-bstarstatic.akamaized.net",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net",
         "s3-ap-southeast-1.amazonaws.com",
@@ -26,8 +25,7 @@
         "dai3fd1oh325y.cloudfront.net",
         "dfp6rglgjqszk.cloudfront.net",
         "d1k2us671qcoau.cloudfront.net",
-        "d2anahhhmp1ffz.cloudfront.net",
-        "p.bstarstatic.com"
+        "d2anahhhmp1ffz.cloudfront.net"
       ],
       "domain_suffix": [
         "viu.tv",

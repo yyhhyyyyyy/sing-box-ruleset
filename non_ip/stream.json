@@ -38,7 +38,6 @@
         "bahamut.akamaized.net",
         "hboasialive.akamaized.net",
         "hbogoprod-vod.akamaized.net",
-        "p-bstarstatic.akamaized.net",
         "staticasiafox.akamaized.net",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net",
@@ -65,7 +64,6 @@
         "d3c7rimkq79yfu.cloudfront.net",
         "youtube.googleapis.com",
         "youtubei.googleapis.com",
-        "p.bstarstatic.com",
         "dashasiafox.akamaized.netflix"
       ],
       "domain_suffix": [

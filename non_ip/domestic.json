@@ -430,9 +430,9 @@
         "biliapi.com",
         "biliapi.net",
         "bilibili.cn",
-        "bilibili.tv",
         "biligame.cn",
         "biliimg.com",
+        "byteimg.com",
         "bytetcc.com",
         "c-ctrip.com",
         "cainiao.com",
@@ -728,7 +728,6 @@
         "pconline.com.cn",
         "dl.pinyuncloud.com",
         "taopiaopiao.com",
-        "tencent-coud.cn",
         "toutiaopage.com",
         "xiaohongshu.com",
         "aicoinstorge.com",
@@ -781,4 +780,3 @@
     }
   ]
 }
-
