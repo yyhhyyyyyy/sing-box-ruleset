@@ -304,6 +304,7 @@
         "binance.com",
         "blogger.com",
         "booklive.jp",
+        "cbsnews.com",
         "doujins.com",
         "edgeapp.net",
         "firefox.com",
@@ -341,6 +342,7 @@
         "twitpic.com",
         "twitter.com",
         "vivaldi.com",
+        "weather.com",
         "wikidot.com",
         "windows.net",
         "workers.dev",
@@ -361,6 +363,7 @@
         "blogblog.com",
         "cachefly.net",
         "capitalg.com",
+        "cbslocal.com",
         "character.ai",
         "chromium.org",
         "cloudapp.net",
@@ -418,6 +421,7 @@
         "wikawika.xyz",
         "wikidata.org",
         "wikinews.org",
+        "wikiwand.com",
         "wordtune.com",
         "xhamster.com",
         "z-library.se",
@@ -633,4 +637,3 @@
     }
   ]
 }
-
