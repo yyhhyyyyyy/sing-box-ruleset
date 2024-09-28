@@ -123,6 +123,7 @@
         "spt-mia.edgeuno.com",
         "spt-dal1.edgeuno.com",
         "spt-jfk1.edgeuno.com",
+        "speedtest.fios.net.br",
         "ams-speedtest.isp.htb.systems",
         "speedtest-ifx-mia.ifxcorp.com",
         "ookla.lunoxia.net",
@@ -279,6 +280,7 @@
         "teste.reatelecom.com.br",
         "teste.speednetpa.net.br",
         "velocidade.vlctelecom.com.br",
+        "speedtest.wbstelecom.com.br",
         "speedtest.auratelecom.com.br",
         "teste.linkonfibra.com.br",
         "ooklatins.redeconexaonet.com",
@@ -327,6 +329,7 @@
         "speedtest.smapasundan8bdg.sch.id",
         "velocidade.impertechtelecom.com.br",
         "test.infoconnecttelecom.com.br",
+        "speedtest.topnettelecomservicos.com.br",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
