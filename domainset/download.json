@@ -575,6 +575,7 @@
         "dl.wireshark.org",
         "swupdate.chaosgroup.com",
         "nitro.download",
+        "s3.us-west-002.backblazeb2.com",
         "dl.playstation.net",
         "dl.sourceforge.net",
         "steamserver.net",
@@ -593,4 +594,3 @@
     }
   ]
 }
-

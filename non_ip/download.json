@@ -8,6 +8,7 @@
       "domain_regex": [
         "^download[a-zA-Z0-9-_.]*?\\.mediafire\\.com$",
         "^ftp\\.[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.debian\\.org$",
+        "^[a-zA-Z0-9-_.]*?\\.s3\\.[a-zA-Z0-9-_.]*?\\.backblazeb2\\.com$",
         "^edgedl\\.me\\.gvt[a-zA-Z0-9-_.]\\.com$"
       ],
       "ip_cidr": [],
