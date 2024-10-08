@@ -6,7 +6,12 @@
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "itvpnpmobile-a.akamaihd.net"
       ],
-      "domain_suffix": ["itv.com", "bbc.co.uk", "bbci.co.uk", "itvstatic.com"],
+      "domain_suffix": [
+        "itv.com",
+        "bbc.co.uk",
+        "bbci.co.uk",
+        "tvlicensing.co.uk"
+      ],
       "domain_keyword": ["bbcfmt", "uk-live"],
       "domain_regex": [],
       "ip_cidr": [],
