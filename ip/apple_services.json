@@ -18,6 +18,9 @@
         "198.183.17.0/24",
         "205.180.175.0/24"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

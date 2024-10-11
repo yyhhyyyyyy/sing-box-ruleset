@@ -19,6 +19,9 @@
         "fc00::/7",
         "fe80::/10"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

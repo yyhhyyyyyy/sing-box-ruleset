@@ -27,6 +27,9 @@
         "2a00:86c0::/32",
         "2a03:5640::/32"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

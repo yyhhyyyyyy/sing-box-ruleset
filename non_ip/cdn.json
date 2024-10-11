@@ -47,6 +47,9 @@
         "^fsvod[a-zA-Z0-9-_.]\\.com$"
       ],
       "ip_cidr": [],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

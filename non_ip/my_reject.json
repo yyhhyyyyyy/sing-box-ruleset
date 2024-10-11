@@ -70,6 +70,9 @@
         "240e:928:1400:10::25/128",
         "2402:4e00:1200:ed00:0:9089:6dac:96b6/128"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [7680],
       "process_name": [
         "Tencent Lemon",
         "LemonMonitor",

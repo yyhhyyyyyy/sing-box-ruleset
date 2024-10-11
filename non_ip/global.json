@@ -633,6 +633,9 @@
       ],
       "domain_regex": [],
       "ip_cidr": [],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

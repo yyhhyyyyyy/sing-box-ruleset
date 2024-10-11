@@ -25,6 +25,9 @@
         "193.112.159.225/32",
         "223.252.199.66/31"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }

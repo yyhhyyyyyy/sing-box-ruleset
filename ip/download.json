@@ -19,6 +19,9 @@
         "2a0b:e44:1::/48",
         "2a0b:e45:1::/48"
       ],
+      "source_ip_cidr": [],
+      "source_port": [],
+      "port": [],
       "process_name": [],
       "process_path": []
     }
