@@ -4,8 +4,8 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
-        "download.555mac.com",
         "torrentmac.net",
+        "download.555mac.com",
         "engage.cloudflareclient.com"
       ],
       "domain_keyword": ["mac-torrent-download"],

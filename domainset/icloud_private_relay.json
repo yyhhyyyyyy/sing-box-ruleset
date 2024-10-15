@@ -9,8 +9,8 @@
         "mask-canary.icloud.com",
         "mask.apple-dns.net",
         "mask-t.apple-dns.net",
-        "canary.mask.apple-dns.net",
         "mask-api.fe.apple-dns.net",
+        "canary.mask.apple-dns.net",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": []

@@ -4,16 +4,16 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "api.smoot.apple.cn",
-        "gs-loc-cn.apple.com"
+        "gs-loc-cn.apple.com",
+        "api.smoot.apple.cn"
       ],
       "domain_suffix": [
+        "apple.com.cn",
+        "icloud.com.cn",
         "cn.apple.com",
         "cn.ls.apple.com",
         "cn-ssl.ls.apple.com",
-        "gspe19-cn-ssl.ls.apple.com",
-        "apple.com.cn",
-        "icloud.com.cn"
+        "gspe19-cn-ssl.ls.apple.com"
       ],
       "domain_keyword": [],
       "domain_regex": [],

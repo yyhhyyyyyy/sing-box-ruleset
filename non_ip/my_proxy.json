@@ -9,16 +9,16 @@
         "fonts.googleapis.cn"
       ],
       "domain_suffix": [
-        "ip.sb",
-        "ipwho.is",
-        "db-ip.com",
         "ipdata.co",
-        "ip-api.com",
-        "nextdns.io",
-        "ipstack.com",
-        "services.googleapis.cn",
         "ipregistry.co",
-        "ipgeolocation.io"
+        "nextdns.io",
+        "ipgeolocation.io",
+        "ipwho.is",
+        "ip.sb",
+        "db-ip.com",
+        "ip-api.com",
+        "ipstack.com",
+        "services.googleapis.cn"
       ],
       "domain_keyword": [],
       "domain_regex": [],

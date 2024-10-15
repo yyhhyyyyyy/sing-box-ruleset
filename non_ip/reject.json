@@ -4,25 +4,25 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "this_rule_set_is_made_by_sukkaw.skk.moe",
         "js.iterable.com",
         "api.iterable.com",
         "api-js.mixpanel.com",
-        "stun.smartgslb.com"
+        "stun.smartgslb.com",
+        "this_rule_set_is_made_by_sukkaw.skk.moe"
       ],
       "domain_suffix": [
-        "net.mydays.de",
-        "openx.net",
-        "omtrdc.net",
-        "classify-client.services.mozilla.com",
-        "telemetry.mozilla.org",
-        "telemetry-coverage.mozilla.org",
         "notify6.com",
         "crazyegg.com",
         "amplitude.com",
         "notifysrv.com",
         "advertising.com",
-        "incoming-telemetry.thunderbird.net"
+        "openx.net",
+        "omtrdc.net",
+        "net.mydays.de",
+        "incoming-telemetry.thunderbird.net",
+        "telemetry.mozilla.org",
+        "telemetry-coverage.mozilla.org",
+        "classify-client.services.mozilla.com"
       ],
       "domain_keyword": [
         ".estream.",
