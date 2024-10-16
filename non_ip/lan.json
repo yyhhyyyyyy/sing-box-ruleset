@@ -3,26 +3,9 @@
   "rules": [
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": [
-        "lan",
-        "localhost",
-        "localdomain",
-        "home.arpa",
-        "10.in-addr.arpa",
-        "254.169.in-addr.arpa",
-        "16.172.in-addr.arpa",
-        "17.172.in-addr.arpa",
-        "18.172.in-addr.arpa",
-        "19.172.in-addr.arpa",
-        "30.172.in-addr.arpa",
-        "31.172.in-addr.arpa",
-        "168.192.in-addr.arpa"
-      ],
+      "domain_suffix": [],
       "domain_keyword": [],
-      "domain_regex": [
-        "^2[a-zA-Z0-9-_.]\\.172\\.in-addr\\.arpa$",
-        "^[a-zA-Z0-9-_.]*?\\.2[a-zA-Z0-9-_.]\\.172\\.in-addr\\.arpa$"
-      ],
+      "domain_regex": [],
       "ip_cidr": [],
       "source_ip_cidr": [],
       "source_port": [],

@@ -1719,6 +1719,7 @@
         "net-fe-static-assets.network-controller.svc.ui.com",
         "firefox.settings.services.mozilla.com",
         "cdn.assets.as2.amazonaws.com",
+        "rum-agent.na-01.cloud.solarwinds.com",
         "storage.gra.cloud.ovh.net",
         "brick.a.ssl.fastly.net",
         "cf-images.us-east-1.prod.boltdns.net",
