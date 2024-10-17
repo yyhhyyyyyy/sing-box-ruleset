@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        "speedtest.linknetbv.com",
+        "lg-tok.fdcservers.net",
         "st.mow.gin.ru",
         "hizbursa.durunet.com.tr",
         "hizistanbul1.durunet.com.tr",
