@@ -3,11 +3,14 @@
   "rules": [
     {
       "domain": [
+        "speedtest.jsqiuying.com",
         "speedtest.linknetbv.com",
         "lg-tok.fdcservers.net",
         "st.mow.gin.ru",
+        "ookla.sh.com.tr",
         "hizbursa.durunet.com.tr",
         "hizistanbul1.durunet.com.tr",
+        "speedtest.ty7.macarne.com",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
