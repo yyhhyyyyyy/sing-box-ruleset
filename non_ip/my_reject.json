@@ -9,6 +9,7 @@
         "dns.jd.com",
         "httpdns.baidu.com",
         "httpsdns.baidu.com",
+        "httpdns.alicdn.com",
         "httpdns.meituan.com",
         "httpdnsvip.meituan.com",
         "httpdns-sc.aliyuncs.com",
@@ -23,12 +24,9 @@
         "dns.weixin.qq.com",
         "httpdns.music.163.com",
         "httpdns.c.cdnhwc2.com",
-        "httpdns.n.netease.com",
         "httpdns.push.heytapmobi.com",
         "httpdns.push.oppomobile.com",
-        "dns.weixin.qq.com.cn",
-        "music.httpdns.c.163.com",
-        "lofter.httpdns.c.163.com"
+        "dns.weixin.qq.com.cn"
       ],
       "domain_suffix": [
         "parallels.cn",
@@ -45,6 +43,8 @@
         "parallelskorea.com",
         "httpdns.pro",
         "genuine.autodesk.com",
+        "httpdns.c.163.com",
+        "httpdns.n.netease.com",
         "parallels.com.cdn.cloudflare.net"
       ],
       "domain_keyword": ["bahoom"],
@@ -59,6 +59,7 @@
         "59.111.239.61/32",
         "59.111.239.62/32",
         "101.124.19.122/32",
+        "103.37.152.97/32",
         "103.224.222.208/32",
         "115.236.121.51/32",
         "115.236.121.195/32",
@@ -69,6 +70,7 @@
         "182.254.118.119/32",
         "186.76.76.200/32",
         "203.107.1.0/24",
+        "203.119.204.66/32",
         "2402:db40:5100:1011::5/128",
         "2402:4e00:1900:1700:0:9554:1ad9:c3a/128",
         "240e:928:1400:10::25/128",
