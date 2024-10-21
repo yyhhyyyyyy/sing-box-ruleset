@@ -4,10 +4,10 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "otheve.beacon.qq.com",
         "oth.str.mdt.qq.com"
       ],
       "domain_suffix": [
+        "beacon.qq.com",
         "sginput.qq.com",
         "get.sogou.com",
         "ime.sogou.com",
