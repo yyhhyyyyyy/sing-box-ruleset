@@ -11,8 +11,12 @@
       "domain_suffix": [
         "fs.microsoft.com",
         "sdx.microsoft.com",
+        "docs.microsoft.com",
         "build.microsoft.com",
+        "learn.microsoft.com",
+        "devblogs.microsoft.com",
         "download.microsoft.com",
+        "developer.microsoft.com",
         "officecdn.microsoft.com",
         "cn.windowssearch.com",
         "ctldl.windowsupdate.com",
