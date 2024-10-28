@@ -4,13 +4,17 @@
     {
       "domain": [
         "ookla3.1und1-mobilfunk.de",
+        "speedperf.axione.fr",
         "speedtest.sercomm.com",
         "speedtest.jsqiuying.com",
         "kadoshspeed.kadoshnet.com",
         "speedtest.linknetbv.com",
+        "speedtest-ank1.atasunucum.com",
+        "ooklaspeedtest-cdb.quebeccloud.com",
         "sp1.campanaworks.com",
         "sp7.atcc-gns.net",
         "lg-tok.fdcservers.net",
+        "velocidade.phinfortelecom.com.br",
         "ookla.siditelecom-isp.com.br",
         "speedtest-sg.cni.net.id",
         "st.mow.gin.ru",
@@ -25,6 +29,7 @@
         "speedtest.ty7.macarne.com",
         "speedtest.eu.kamatera.com",
         "stosat-rvlt-01.sys.comcast.net",
+        "speedtest-1.london.network.youfibre.com",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
