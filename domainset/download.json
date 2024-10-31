@@ -136,6 +136,7 @@
         "api-updates.orbstack.dev",
         "cdn-updates.orbstack.dev",
         "dl.getaurora.dev",
+        "drive.massgrave.dev",
         "releases.arc.net",
         "mirror.cat.net",
         "mirrors.cat.net",
@@ -225,6 +226,7 @@
       ],
       "domain_suffix": [
         "file.io",
+        "ghcr.io",
         "mega.io",
         "mega.nz",
         "temp.sh",
