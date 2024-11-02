@@ -44,7 +44,9 @@
         "^[a-zA-Z0-9-_.]*?\\.kuaikan-cdn[a-zA-Z0-9-_.]\\.com$",
         "^[a-zA-Z0-9-_.]*?\\.lz-cdn[a-zA-Z0-9-_.]\\.com$",
         "^[a-zA-Z0-9-_.]*?\\.lz-cdn[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.com$",
-        "^[a-zA-Z0-9-_.]*?\\.fsvod[a-zA-Z0-9-_.]\\.com$"
+        "^[a-zA-Z0-9-_.]*?\\.fsvod[a-zA-Z0-9-_.]\\.com$",
+        "^image[a-zA-Z0-9-_.]*?\\.cloudokyo\\.cloud$",
+        "^video[a-zA-Z0-9-_.]*?\\.cloudokyo\\.cloud$"
       ],
       "ip_cidr": [],
       "source_ip_cidr": [],
