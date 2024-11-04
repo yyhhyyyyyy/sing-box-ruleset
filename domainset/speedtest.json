@@ -3,9 +3,11 @@
   "rules": [
     {
       "domain": [
+        "babeltik.com",
         "ookla3.1und1-mobilfunk.de",
         "speedtest1-qupra-ams-nl.ebgp.fi",
         "speedperf.axione.fr",
+        "hytron-hk.hytron.io",
         "speedtest2.niutk.com",
         "speedtest.sercomm.com",
         "speedtest.jsqiuying.com",
