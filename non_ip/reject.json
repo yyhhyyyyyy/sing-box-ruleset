@@ -5,6 +5,8 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "dns.weibo.cn",
+        "ttnet-dig.feishu.cn",
+        "ttnet-doh.feishu.cn",
         "dns.jd.com",
         "httpdns.baidu.com",
         "httpsdns.baidu.com",
