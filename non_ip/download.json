@@ -6,9 +6,9 @@
       "domain_suffix": [],
       "domain_keyword": [],
       "domain_regex": [
-        "^download[a-zA-Z0-9-_.]*?\\.mediafire\\.com$",
-        "^ftp\\.[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.debian\\.org$",
-        "^[a-zA-Z0-9-_.]*?\\.s3\\.[a-zA-Z0-9-_.]*?\\.backblazeb2\\.com$"
+        "^download[\\w.-]*?\\.mediafire\\.com$",
+        "^ftp\\.[\\w.-][\\w.-]\\.debian\\.org$",
+        "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$"
       ],
       "ip_cidr": [],
       "source_ip_cidr": [],

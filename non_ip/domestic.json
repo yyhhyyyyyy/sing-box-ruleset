@@ -49,6 +49,7 @@
         "cctv.cn",
         "cntv.cn",
         "didi.cn",
+        "ebay.cn",
         "kuwo.cn",
         "migu.cn",
         "neea.cn",
@@ -758,7 +759,7 @@
         "dl.delivery.mp.microsoft.com"
       ],
       "domain_keyword": [],
-      "domain_regex": ["^[a-zA-Z0-9-_.]*?\\.qhimgs[a-zA-Z0-9-_.]\\.com$"],
+      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"],
       "ip_cidr": [],
       "source_ip_cidr": [],
       "source_port": [],
