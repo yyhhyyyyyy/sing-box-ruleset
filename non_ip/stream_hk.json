@@ -5,27 +5,16 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "hbounify-prod.evergent.com",
-        "s3-ap-southeast-1.amazonaws.com",
         "hbolb.onwardsmg.com",
         "apm-misaka.biliapi.net",
-        "hboasia1-i.akamaihd.net",
-        "hboasia2-i.akamaihd.net",
-        "hboasia3-i.akamaihd.net",
-        "hboasia4-i.akamaihd.net",
-        "hboasia5-i.akamaihd.net",
-        "bcbolthboa-a.akamaihd.net",
-        "hboasialive.akamaized.net",
-        "hbogoprod-vod.akamaized.net",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net",
         "players.brightcove.net",
-        "dai3fd1oh325y.cloudfront.net",
         "dfp6rglgjqszk.cloudfront.net",
         "d1k2us671qcoau.cloudfront.net",
         "d2anahhhmp1ffz.cloudfront.net",
         "manifest.prod.boltdns.net",
-        "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
-        "cf-images.ap-southeast-1.prod.boltdns.net"
+        "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com"
       ],
       "domain_suffix": [
         "viu.tv",
