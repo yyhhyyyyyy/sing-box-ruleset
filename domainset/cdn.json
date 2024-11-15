@@ -1003,6 +1003,7 @@
         "v.hillwaver.com",
         "static.incapsula.com",
         "platform.instagram.com",
+        "home.integrate.com",
         "cdn.jetphotos.com",
         "images.macrumors.com",
         "cdn-images.mailchimp.com",
@@ -1122,6 +1123,7 @@
         "components.justanswer.com",
         "ww2-secure.justanswer.com",
         "content.jwplatform.com",
+        "v2.listenloop.com",
         "platforms.makemytrip.com",
         "mantisloader.mantis-awx.com",
         "assets.mastercard.com",
@@ -1242,6 +1244,9 @@
         "s3-symbol-logo.tradingview.com",
         "widgets.tree-nation.com",
         "cdn.trustedsite.com",
+        "cms.typenetwork.com",
+        "cloud.typenetwork.com",
+        "fastly-cloud.typenetwork.com",
         "psp-logos.uptimerobot.com",
         "userfiles.uptimerobot.com",
         "asset-cdn.uscardforum.com",
@@ -2369,6 +2374,7 @@
         "hsappstatic.net",
         "staticworld.net",
         "tapecontent.net",
+        "blackbaudcdn.net",
         "vscode-unpkg.net",
         "vusercontent.net",
         "gitlab-static.net",
@@ -2665,6 +2671,7 @@
         "blob.core.windows.net",
         "file.core.windows.net",
         "prod.public.atl-paas.net",
+        "cdn.prod.atlassian-dev.net",
         "ipfs.eth.aragon.network"
       ]
     }
