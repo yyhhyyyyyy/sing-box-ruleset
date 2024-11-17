@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "packagecloud.io",
         "iterm2.com",
         "pixeldrain.com",
         "fedorapeople.org",
@@ -66,6 +67,7 @@
         "store.setapp.com",
         "download.sketch.com",
         "security.ubuntu.com",
+        "softwareupdate.vmware.com",
         "static.adguard.com",
         "download.anydesk.com",
         "dl.devmate.com",
