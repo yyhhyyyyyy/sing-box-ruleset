@@ -4,6 +4,7 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "api.github.com",
         "ai.google.dev",
         "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
@@ -21,6 +22,7 @@
         "ai.com",
         "poe.com",
         "chat.com",
+        "groq.com",
         "chatgpt.com",
         "deepmind.com",
         "anthropic.com",
