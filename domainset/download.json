@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "ghp.ci",
         "packagecloud.io",
         "iterm2.com",
         "pixeldrain.com",
