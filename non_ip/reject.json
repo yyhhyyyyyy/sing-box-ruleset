@@ -58,6 +58,7 @@
         "httpdns.ocloud.heytapmobi.com",
         "httpdns.push.oppomobile.com",
         "httpdns.ocloud.oppomobile.com",
+        "resolver.msg.xiaomi.net",
         "dns.weixin.qq.com.cn"
       ],
       "domain_suffix": [
