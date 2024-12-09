@@ -5,6 +5,7 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "cdn-msp.jmcomic.me",
+        "cdn-msp.jmcomic-zzz.one",
         "cdn-msp.18comic.vip"
       ],
       "domain_suffix": [],
@@ -27,6 +28,7 @@
         "^cdn[\\w.-]-dl\\.pornhost\\.com$",
         "^cdn-msp[\\w.-]\\.18comic\\.vip$",
         "^cdn-msp[\\w.-]\\.jmcomic\\.me$",
+        "^cdn-msp[\\w.-]\\.jmcomic-zzz\\.one$",
         "^static-[\\w.-][\\w.-]-cdn\\.eporner\\.com$",
         "^file[\\w.-]\\.mikuclub\\.fun$",
         "^cdn[\\w.-]\\.mikuclub\\.fun$",
