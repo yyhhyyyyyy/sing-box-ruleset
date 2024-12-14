@@ -7,7 +7,6 @@
         "api.github.com",
         "ai.google.dev",
         "alkalicore-pa.clients6.google.com",
-        "alkalimakersuite-pa.clients6.google.com",
         "gateway.ai.cloudflare.com"
       ],
       "domain_suffix": [
@@ -40,7 +39,7 @@
         "generativelanguage.googleapis.com",
         "proactivebackend-pa.googleapis.com"
       ],
-      "domain_keyword": ["openai"],
+      "domain_keyword": ["openai", "alkalimakersuite-pa.clients6.google.com"],
       "domain_regex": [],
       "ip_cidr": [],
       "source_ip_cidr": [],
