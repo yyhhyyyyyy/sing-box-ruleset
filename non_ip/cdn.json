@@ -14,7 +14,8 @@
         "vod-adaptive.akamaized.net",
         "web-assets.zendesk",
         "-res.cloudinary.com",
-        "dsn.algolia.net"
+        "dsn.algolia.net",
+        "cdnstatic."
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
