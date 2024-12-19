@@ -4,36 +4,11 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "cdn-ms.cosplayeringoodfunk.me",
         "writer-api.mintlify.com",
         "api.wakatime.com",
-        "hv-monster-submit.skk.moe",
-        "static-cdn.bytegiftia.top"
+        "hv-monster-submit.skk.moe"
       ],
-      "domain_suffix": [
-        "szjal.cn",
-        "kxcdn.com",
-        "fsvod1.com",
-        "v82u1l.com",
-        "ffzy888.com",
-        "rrcdnbf3.com",
-        "whweitao.com",
-        "ceres9350.com",
-        "hdzyk-cdn.com",
-        "tokyvideo.com",
-        "wolongcdnm3u8.com",
-        "wolongzywcdn3.com",
-        "akamaihd.net",
-        "akamaized.net",
-        "image8899.net",
-        "yle888.vip",
-        "myvideos.info",
-        "vplay.life",
-        "hey10.cjkypo.com",
-        "cdn.iz8qkg.com",
-        "img.haiwaikan.com",
-        "mapi.4kvm.net"
-      ],
+      "domain_suffix": ["kxcdn.com", "akamaihd.net", "akamaized.net"],
       "domain_keyword": [],
       "domain_regex": [],
       "ip_cidr": [],
