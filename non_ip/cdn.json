@@ -34,6 +34,7 @@
         "^file[\\w.-]\\.mikuclub\\.fun$",
         "^cdn[\\w.-]\\.mikuclub\\.fun$",
         "^cdns\\.[\\w.-]*?\\.gigya\\.com$",
+        "^sdk\\.[\\w.-]*?\\.braze\\.eu$",
         "^video-thumbnail2\\.fc2\\.com$",
         "^video[\\w.-]-thumbnail[\\w.-]\\.fc2\\.com$",
         "^video-thumbnail2\\.liaoningmovie\\.net$",
