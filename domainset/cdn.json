@@ -832,6 +832,7 @@
         "static.olelive.com",
         "assets.ontrack.com",
         "cdn.parsely.com",
+        "static.pingcap.com",
         "cdn.pixabay.com",
         "www.pngmart.com",
         "cdn.quadpay.com",
@@ -1501,6 +1502,8 @@
         "cdn.pika.dev",
         "p.sda1.dev",
         "npm.antfu.dev",
+        "p.depot.dev",
+        "k-cdn.depot.dev",
         "fonts.upset.dev",
         "plugins.dprint.dev",
         "fiddle.fastly.dev",
@@ -1990,7 +1993,6 @@
         "cdn.pkg.svc.ui.com",
         "net-fe-static-assets.network-controller.svc.ui.com",
         "firefox.settings.services.mozilla.com",
-        "cdn.assets.as2.amazonaws.com",
         "talon-website-prod.ecosec.on.epicgames.com",
         "rum-agent.na-01.cloud.solarwinds.com",
         "storage.gra.cloud.ovh.net",
@@ -2860,7 +2862,10 @@
         "dtci-pe-vp-image-resizer.platform.edgedatg.com",
         "widget.cluster.groovehq.com",
         "cdn.survey.medallia.com",
+        "assets.as2.amazonaws.com",
         "ipfs0.sjc.cloudsigma.com",
+        "assets.shortbread.aws.dev",
+        "widgets.marketplace.aws.dev",
         "public.cdn.office.net",
         "myanalytics.cdn.office.net",
         "nel.measure.office.net",
@@ -2869,7 +2874,8 @@
         "file.core.windows.net",
         "prod.public.atl-paas.net",
         "cdn.prod.atlassian-dev.net",
-        "ipfs.eth.aragon.network"
+        "ipfs.eth.aragon.network",
+        "cdn.chrome.marketplace.aws.dev"
       ]
     }
   ]
