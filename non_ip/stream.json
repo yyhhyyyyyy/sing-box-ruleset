@@ -15,6 +15,7 @@
         "bcbolt446c5271-a.akamaihd.net",
         "dashasiafox.akamaized.net",
         "staticasiafox.akamaized.net",
+        "ds-linear-abematv.akamaized.net",
         "upos-bstar-mirrorakam.akamaized.net",
         "upos-bstar1-mirrorakam.akamaized.net",
         "players.brightcove.net",
@@ -225,6 +226,7 @@
         "spotify.design",
         "kk.stream",
         "dmm.co.jp",
+        "location-plus.nhk.jp",
         "kktv.com.tw",
         "kkbox.com.tw",
         "bahamut.com.tw",
@@ -251,7 +253,6 @@
         "psg.cdn.hgc.com.hk"
       ],
       "domain_keyword": [
-        "abematv.akamaized.net",
         "avoddashs",
         "bbcfmt",
         "uk-live",

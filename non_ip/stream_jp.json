@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "ds-linear-abematv.akamaized.net"
+      ],
       "domain_suffix": [
         "abema.io",
         "hayabusa.io",
@@ -26,9 +29,10 @@
         "hayabusa.dev",
         "dmc.nico",
         "hayabusa.media",
-        "dmm.co.jp"
+        "dmm.co.jp",
+        "location-plus.nhk.jp"
       ],
-      "domain_keyword": ["abematv.akamaized.net"],
+      "domain_keyword": [],
       "domain_regex": [],
       "ip_cidr": [],
       "source_ip_cidr": [],
