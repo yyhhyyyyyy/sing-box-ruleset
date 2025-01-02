@@ -50,7 +50,8 @@
         "^[\\w.-]*?\\.lz-cdn[\\w.-][\\w.-]\\.com$",
         "^[\\w.-]*?\\.fsvod[\\w.-]\\.com$",
         "^image[\\w.-]*?\\.cloudokyo\\.cloud$",
-        "^video[\\w.-]*?\\.cloudokyo\\.cloud$"
+        "^video[\\w.-]*?\\.cloudokyo\\.cloud$",
+        "^v\\.rn[\\w.-][\\w.-][\\w.-]\\.xyz$"
       ],
       "ip_cidr": [],
       "source_ip_cidr": [],
