@@ -8,7 +8,12 @@
         "api.wakatime.com",
         "hv-monster-submit.skk.moe"
       ],
-      "domain_suffix": ["kxcdn.com", "akamaihd.net", "akamaized.net"],
+      "domain_suffix": [
+        "kxcdn.com",
+        "azurefd.net",
+        "akamaihd.net",
+        "akamaized.net"
+      ],
       "domain_keyword": [],
       "domain_regex": [],
       "ip_cidr": [],
