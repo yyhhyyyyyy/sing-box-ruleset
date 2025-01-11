@@ -23,10 +23,8 @@
       "domain_suffix": [
         "lan",
         "m2m",
-        "_tcp",
         "home",
         "bogon",
-        "_msdcs",
         "router",
         "localdomain",
         "avgv.cc",
