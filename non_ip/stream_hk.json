@@ -6,9 +6,6 @@
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "hbounify-prod.evergent.com",
         "hbolb.onwardsmg.com",
-        "apm-misaka.biliapi.net",
-        "upos-bstar-mirrorakam.akamaized.net",
-        "upos-bstar1-mirrorakam.akamaized.net",
         "players.brightcove.net",
         "dfp6rglgjqszk.cloudfront.net",
         "d1k2us671qcoau.cloudfront.net",
@@ -19,12 +16,10 @@
       "domain_suffix": [
         "hbogoasia.hk",
         "viu.tv",
-        "bilibili.tv",
         "tvb.com",
         "viu.com",
         "nowe.com",
         "hboasia.com",
-        "biliintl.com",
         "hbogoasia.com",
         "mytvsuper.com",
         "viu.now.com",
@@ -40,8 +35,7 @@
         "com.viu.pad",
         "com.viu.phone",
         "com.vuclip.viu",
-        "com.hktve.viutv",
-        "com.bstar.intl"
+        "com.hktve.viutv"
       ],
       "process_path": []
     }
