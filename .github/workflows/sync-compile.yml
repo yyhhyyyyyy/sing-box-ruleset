@@ -1,59 +1,43 @@
-name: Sync and Compile Sing-Box Rules
+name: Convert All JSON Files to SRS
 
 on:
   push:
-  schedule:
-    - cron: '0 13 * * *'
-  workflow_dispatch:
-  
-permissions:
-  contents: write
-
-env:
-  SING_BOX_VERSION: 1.10.0-beta.4
+    branches:
+      - main
+    paths:
+      - '*.json'  # 检测所有 JSON 文件的变化
 
 jobs:
-  sync_and_compile:
+  convert-json:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v3
+      # Step 1: 检出当前仓库
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Set up Git user
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+      # Step 2: 下载 SingBox 内核
+      - name: Download SingBox
+        run: |
+          curl -L -o sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.10.3/sing-box-1.10.3-linux-amd64.tar.gz
+          tar -xzf sing-box.tar.gz
+          chmod +x sing-box
 
-    - name: Install sing-box
-      run: |
-        curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz
-        tar -xzf sing-box.tar.gz
-        chmod +x sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box
-        sudo mv sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
-        sing-box version
+      # Step 3: 遍历并转换所有 JSON 文件
+      - name: Convert JSON Files to SRS
+        run: |
+          for json_file in *.json; do
+            echo "Converting $json_file..."
+            srs_file="${json_file%.json}.srs"
+            ./sing-box run -c "$json_file" || exit 1
+            mv rules.srs "$srs_file"
+          done
 
-    - name: Fetch and Compile Sing-Box Rules from ruleset
-      run: |
-        git remote add ruleset https://github.com/SukkaLab/ruleset.skk.moe.git
-        git fetch ruleset
-        git checkout ruleset/master -- sing-box
-        rm -rf domainset ip non_ip
-        mv sing-box/* ./
-        rm -rf sing-box sing-box-${SING_BOX_VERSION}-linux-amd64 sing-box.tar.gz
-        find . -type f -name "*.srs" -exec rm -f {} \;
-        find . -type f -name "*.json" -exec bash -c '
-        echo "Compiling: $1"
-        if ! sing-box rule-set compile "$1"; then
-          echo "Error compiling $1"
-          exit 1
-        fi
-        ' _ {} \;
-        git add .
-        if git diff-index --quiet HEAD --; then
-          echo "No changes to commit"
-          echo "No updates needed"
-        else
-          git commit -m "Merged sing-box directory from ruleset.skk.moe repository"
+      # Step 4: 提交生成的 SRS 文件
+      - name: Commit and Push SRS Files
+        run: |
+          git config --global user.name "Your GitHub Username"
+          git config --global user.email "Your Email Address"
+          git add *.srs
+          git commit -m "Auto-converted SRS files from JSON"
           git push
-        fi
