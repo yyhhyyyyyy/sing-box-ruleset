@@ -16,8 +16,7 @@
         "-res.cloudinary.com",
         "dsn.algolia.net",
         "-cdn.eporner.com",
-        "cdn.adultempire.com",
-        "cdnstatic."
+        "cdn.adultempire.com"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
