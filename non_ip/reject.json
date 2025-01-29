@@ -63,6 +63,7 @@
         "dns.weixin.qq.com.cn"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "juejin.cn",
         "bgp.co",
         "juejin.im",
@@ -191,12 +192,7 @@
         "2402:4e00:1900:1700:0:9554:1ad9:c3a/128",
         "240e:928:1400:10::25/128",
         "2402:4e00:1200:ed00:0:9089:6dac:96b6/128"
-      ],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

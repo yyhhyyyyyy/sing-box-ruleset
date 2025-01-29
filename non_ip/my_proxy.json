@@ -9,6 +9,7 @@
         "fonts.googleapis.cn"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "ipdata.co",
         "ipregistry.co",
         "nextdns.io",
@@ -19,15 +20,7 @@
         "ip-api.com",
         "ipstack.com",
         "services.googleapis.cn"
-      ],
-      "domain_keyword": [],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

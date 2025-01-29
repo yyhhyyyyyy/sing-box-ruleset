@@ -56,6 +56,7 @@
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "netflix.ca",
         "primevideo.cc",
         "amazonvideo.cc",
@@ -268,11 +269,6 @@
         "-tiktokcdn-com",
         "tvbanywhere"
       ],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
       "process_name": [
         "com.amazon.avod.thirdpartyclient",
         "tv",
@@ -288,8 +284,7 @@
         "com.viu.phone",
         "com.vuclip.viu",
         "com.hktve.viutv"
-      ],
-      "process_path": []
+      ]
     }
   ]
 }

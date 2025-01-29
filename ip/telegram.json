@@ -3,9 +3,7 @@
   "rules": [
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": [],
-      "domain_keyword": [],
-      "domain_regex": [],
+      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "ip_cidr": [
         "91.105.192.0/23",
         "91.108.4.0/22",
@@ -20,12 +18,7 @@
         "2001:67c:4e8::/48",
         "2001:b28:f23c::/48",
         "2a0a:f280::/32"
-      ],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

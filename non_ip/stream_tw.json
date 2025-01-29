@@ -16,6 +16,7 @@
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "hbogoasia.hk",
         "kktv.me",
         "4gtv.tv",
@@ -30,13 +31,7 @@
         "ani.gamer.com.tw"
       ],
       "domain_keyword": [".hbogoasia."],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": ["com.linecorp.linetv"],
-      "process_path": []
+      "process_name": ["com.linecorp.linetv"]
     }
   ]
 }

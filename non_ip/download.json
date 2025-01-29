@@ -3,19 +3,12 @@
   "rules": [
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": [],
-      "domain_keyword": [],
+      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_regex": [
         "^download[\\w.-]*?\\.mediafire\\.com$",
         "^ftp\\.[\\w.-][\\w.-]\\.debian\\.org$",
         "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$"
-      ],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

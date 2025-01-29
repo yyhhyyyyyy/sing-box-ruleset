@@ -4,6 +4,7 @@
     {
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "t.me",
         "tx.me",
         "telegram.me",
@@ -18,15 +19,7 @@
         "telegram.org",
         "cdn-telegram.org",
         "telegram.space"
-      ],
-      "domain_keyword": [],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

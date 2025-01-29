@@ -9,6 +9,7 @@
         "statics.teams.cdn.office.net"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "fs.microsoft.com",
         "sdx.microsoft.com",
         "docs.microsoft.com",
@@ -26,15 +27,7 @@
         "download.visualstudio.microsoft.com",
         "storeedgefd.dsx.mp.microsoft.com",
         "dl.delivery.mp.microsoft.com"
-      ],
-      "domain_keyword": [],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

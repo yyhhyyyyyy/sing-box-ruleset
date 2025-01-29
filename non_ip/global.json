@@ -12,6 +12,7 @@
         "store.ui.com.cn"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "ai",
         "at",
         "au",
@@ -745,14 +746,7 @@
         "browserleaks",
         "dropbox",
         "pinterest"
-      ],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

@@ -8,7 +8,7 @@
         "cdn-msp.jmcomic-zzz.one",
         "cdn-msp.18comic.vip"
       ],
-      "domain_suffix": [],
+      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_keyword": [
         "-files.gitbook.io",
         "vod-adaptive.akamaized.net",
@@ -61,13 +61,7 @@
         "^s[\\w.-][\\w.-]\\.maxstream\\.org$",
         "^media[\\w.-]\\.kissjav\\.com$",
         "^media[\\w.-][\\w.-]\\.kissjav\\.com$"
-      ],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      ]
     }
   ]
 }

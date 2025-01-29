@@ -7,6 +7,7 @@
         "daisydiskapp.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "adobe.io",
         "adobestats.io",
         "uhabo.com",
@@ -36,11 +37,6 @@
         "p2pupgrade.gamedl.qq.com"
       ],
       "domain_keyword": ["bahoom"],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [7680],
       "process_name": [
         "Tencent Lemon",
         "LemonMonitor",
@@ -48,7 +44,7 @@
         "LemonAgent",
         "LemonService"
       ],
-      "process_path": []
+      "port": [7680]
     }
   ]
 }

@@ -7,6 +7,7 @@
         "oth.str.mdt.qq.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "beacon.qq.com",
         "sginput.qq.com",
         "get.sogou.com",
@@ -16,14 +17,7 @@
         "shouji.sogou.com",
         "account.sogou.com"
       ],
-      "domain_keyword": [],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"],
-      "process_path": []
+      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"]
     }
   ]
 }

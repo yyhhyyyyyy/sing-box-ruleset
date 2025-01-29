@@ -23,6 +23,7 @@
         "media.cdn.queniuqe.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "chaoxing.cc",
         "3.cn",
         "6.cn",
@@ -765,14 +766,7 @@
         "dl.bscstorage.net",
         "dl.delivery.mp.microsoft.com"
       ],
-      "domain_keyword": [],
-      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
-      "process_name": [],
-      "process_path": []
+      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
     }
   ]
 }

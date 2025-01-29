@@ -17,6 +17,7 @@
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "hbogoasia.hk",
         "viu.tv",
         "bilibili.tv",
@@ -31,19 +32,13 @@
         "psg.cdn.hgc.com.hk"
       ],
       "domain_keyword": ["nowtv100", "rthklive", ".hbogoasia."],
-      "domain_regex": [],
-      "ip_cidr": [],
-      "source_ip_cidr": [],
-      "source_port": [],
-      "port": [],
       "process_name": [
         "com.viu.pad",
         "com.viu.phone",
         "com.vuclip.viu",
         "com.hktve.viutv",
         "com.bstar.intl"
-      ],
-      "process_path": []
+      ]
     }
   ]
 }
