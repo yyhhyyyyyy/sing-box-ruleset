@@ -44,6 +44,7 @@
         "gov.cn",
         "itc.cn",
         "mcd.cn",
+        "nga.cn",
         "nmc.cn",
         "org.cn",
         "php.cn",
@@ -179,6 +180,7 @@
         "139.com",
         "163.com",
         "166.com",
+        "178.com",
         "188.com",
         "360.com",
         "bh3.com",
@@ -331,6 +333,7 @@
         "cmbimg.com",
         "ctfile.com",
         "dnspod.com",
+        "donews.com",
         "douban.com",
         "douyin.com",
         "dpfile.com",
@@ -366,6 +369,7 @@
         "mmstat.com",
         "mobike.com",
         "myoppo.com",
+        "ngabbs.com",
         "ourdvs.com",
         "pddpic.com",
         "pddugc.com",
@@ -767,7 +771,13 @@
         "dl.bscstorage.net",
         "dl.delivery.mp.microsoft.com"
       ],
-      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
+      "domain_regex": [
+        "^[\\w.-]*?\\.ffzy-online[\\w.-]\\.com$",
+        "^[\\w.-]*?\\.ffzy-play[\\w.-]\\.com$",
+        "^[\\w.-]*?\\.lz-cdn[\\w.-]\\.com$",
+        "^[\\w.-]*?\\.lz-cdn[\\w.-][\\w.-]\\.com$",
+        "^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"
+      ]
     }
   ]
 }
