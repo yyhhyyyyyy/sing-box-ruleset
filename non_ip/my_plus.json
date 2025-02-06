@@ -4,6 +4,8 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "ssl.gstatic.com",
+        "www.gstatic.com",
         "writer-api.mintlify.com",
         "api.wakatime.com",
         "hv-monster-submit.skk.moe"
