@@ -6,8 +6,8 @@
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "torrentmac.net",
-        "download.555mac.com",
-        "engage.cloudflareclient.com"
+        "engage.cloudflareclient.com",
+        "download.555mac.com"
       ],
       "domain_keyword": ["mac-torrent-download"],
       "process_name": ["AdGuardHome", "nmap"]

@@ -4,29 +4,29 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "res.cdn.office.net",
+        "statics.teams.cdn.office.net",
         "res-1.cdn.office.net",
-        "statics.teams.cdn.office.net"
+        "res.cdn.office.net"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "fs.microsoft.com",
-        "sdx.microsoft.com",
-        "docs.microsoft.com",
-        "learn.microsoft.com",
-        "devblogs.microsoft.com",
-        "download.microsoft.com",
-        "developer.microsoft.com",
-        "officecdn.microsoft.com",
-        "cn.windowssearch.com",
-        "ctldl.windowsupdate.com",
         "download.windowsupdate.com",
-        "wscont1.apps.microsoft.com",
-        "wscont2.apps.microsoft.com",
-        "download.prss.microsoft.com",
+        "ctldl.windowsupdate.com",
+        "cn.windowssearch.com",
         "download.visualstudio.microsoft.com",
+        "officecdn.microsoft.com",
+        "developer.microsoft.com",
+        "download.microsoft.com",
+        "devblogs.microsoft.com",
+        "learn.microsoft.com",
+        "download.prss.microsoft.com",
+        "docs.microsoft.com",
+        "wscont2.apps.microsoft.com",
+        "wscont1.apps.microsoft.com",
+        "sdx.microsoft.com",
+        "dl.delivery.mp.microsoft.com",
         "storeedgefd.dsx.mp.microsoft.com",
-        "dl.delivery.mp.microsoft.com"
+        "fs.microsoft.com"
       ]
     }
   ]

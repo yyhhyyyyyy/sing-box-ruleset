@@ -8,14 +8,14 @@
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "beacon.qq.com",
-        "sginput.qq.com",
-        "get.sogou.com",
-        "ime.sogou.com",
-        "macime.sogou.com",
-        "pinyin.sogou.com",
+        "account.sogou.com",
         "shouji.sogou.com",
-        "account.sogou.com"
+        "pinyin.sogou.com",
+        "macime.sogou.com",
+        "ime.sogou.com",
+        "get.sogou.com",
+        "sginput.qq.com",
+        "beacon.qq.com"
       ],
       "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"]
     }

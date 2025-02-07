@@ -5,10 +5,10 @@
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "null",
         "undefined",
-        "geo2.adobe.com",
-        "in.applicationinsights.azure.com"
+        "null",
+        "in.applicationinsights.azure.com",
+        "geo2.adobe.com"
       ]
     }
   ]

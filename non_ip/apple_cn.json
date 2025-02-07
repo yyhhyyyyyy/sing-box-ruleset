@@ -9,12 +9,12 @@
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "apple.com.cn",
-        "icloud.com.cn",
-        "cn.apple.com",
-        "cn.ls.apple.com",
+        "gspe19-cn-ssl.ls.apple.com",
         "cn-ssl.ls.apple.com",
-        "gspe19-cn-ssl.ls.apple.com"
+        "cn.ls.apple.com",
+        "cn.apple.com",
+        "icloud.com.cn",
+        "apple.com.cn"
       ]
     }
   ]

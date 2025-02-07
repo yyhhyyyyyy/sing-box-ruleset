@@ -4,18 +4,18 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "hanime1.me",
-        "cableav.tv",
-        "javdb.com",
-        "jav.guru",
         "copymanga.site",
-        "www.coinbase.com"
+        "jav.guru",
+        "www.coinbase.com",
+        "javdb.com",
+        "cableav.tv",
+        "hanime1.me"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "mandaom.com",
+        "18comic.vip",
         "crunchyroll.com",
-        "18comic.vip"
+        "mandaom.com"
       ]
     }
   ]

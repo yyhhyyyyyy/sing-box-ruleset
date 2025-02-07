@@ -4,21 +4,21 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "ip.cn",
+        "fonts.googleapis.cn",
         "fonts.gstatic.cn",
-        "fonts.googleapis.cn"
+        "ip.cn"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "ipdata.co",
-        "ipregistry.co",
-        "nextdns.io",
-        "ipgeolocation.io",
-        "ipwho.is",
-        "ip.sb",
-        "db-ip.com",
-        "ip-api.com",
         "ipstack.com",
+        "ip-api.com",
+        "db-ip.com",
+        "ip.sb",
+        "ipwho.is",
+        "ipgeolocation.io",
+        "nextdns.io",
+        "ipregistry.co",
+        "ipdata.co",
         "services.googleapis.cn"
       ]
     }

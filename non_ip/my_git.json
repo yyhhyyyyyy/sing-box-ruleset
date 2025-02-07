@@ -4,15 +4,15 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "github.com",
         "github.dev",
-        "api.github.com",
-        "alive.github.com"
+        "github.com",
+        "alive.github.com",
+        "api.github.com"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "huggingface.co",
-        "githubcopilot.com"
+        "githubcopilot.com",
+        "huggingface.co"
       ]
     }
   ]

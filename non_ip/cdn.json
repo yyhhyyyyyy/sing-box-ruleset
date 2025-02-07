@@ -4,9 +4,9 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "cdn-msp.jmcomic.me",
+        "cdn-msp.18comic.vip",
         "cdn-msp.jmcomic-zzz.one",
-        "cdn-msp.18comic.vip"
+        "cdn-msp.jmcomic.me"
       ],
       "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_keyword": [
@@ -24,6 +24,7 @@
         "^static[\\w.-]*?\\.tgstat\\.ru$",
         "^ocsp\\.[\\w.-]*?\\.amazontrust\\.com$",
         "^s3\\.[\\w.-]*?\\.wasabisys\\.com$",
+        "^object-storage-[\\w.-]*?\\.vexxhost\\.net$",
         "^i[\\w.-]\\.nhentai\\.net$",
         "^t[\\w.-]\\.nhentai\\.net$",
         "^cdn[\\w.-]-thumbs\\.pornhost\\.com$",

@@ -4,19 +4,19 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "ssl.gstatic.com",
-        "www.gstatic.com",
-        "writer-api.mintlify.com",
+        "hv-monster-submit.skk.moe",
         "api.wakatime.com",
-        "hv-monster-submit.skk.moe"
+        "writer-api.mintlify.com",
+        "www.gstatic.com",
+        "ssl.gstatic.com"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "kxcdn.com",
-        "azurefd.net",
-        "akamaihd.net",
         "akamaized.net",
-        "vo.msecnd.net"
+        "akamaihd.net",
+        "azurefd.net",
+        "vo.msecnd.net",
+        "kxcdn.com"
       ]
     }
   ]
