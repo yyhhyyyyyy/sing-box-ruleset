@@ -41,6 +41,7 @@
         "^img[\\w.-][\\w.-]\\.porngo\\.com$",
         "^th-[\\w.-]*?\\.pornone\\.com$",
         "^s[\\w.-][\\w.-][\\w.-]\\.pornone\\.com$",
+        "^browser-intake-[\\w.-]*?-datadoghq\\.com$",
         "^video-thumbnail2\\.fc2\\.com$",
         "^video[\\w.-]-thumbnail[\\w.-]\\.fc2\\.com$",
         "^video-thumbnail2\\.liaoningmovie\\.net$",
