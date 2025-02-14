@@ -5,6 +5,7 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "cdn-msp.18comic.vip",
+        "cdn-msp.18comic.org",
         "cdn-msp.jmcomic-zzz.one",
         "cdn-msp.jmcomic.me"
       ],
@@ -32,6 +33,7 @@
         "^cdn-msp[\\w.-]\\.18comic\\.vip$",
         "^cdn-msp[\\w.-]\\.jmcomic\\.me$",
         "^cdn-msp[\\w.-]\\.jmcomic-zzz\\.one$",
+        "^cdn-msp[\\w.-]\\.18comic\\.org$",
         "^file[\\w.-]\\.mikuclub\\.fun$",
         "^cdn[\\w.-]\\.mikuclub\\.fun$",
         "^assets[\\w.-]*?\\.freshdesk\\.com$",
@@ -58,7 +60,8 @@
         "^s[\\w.-]\\.maxstream\\.org$",
         "^s[\\w.-][\\w.-]\\.maxstream\\.org$",
         "^media[\\w.-]\\.kissjav\\.com$",
-        "^media[\\w.-][\\w.-]\\.kissjav\\.com$"
+        "^media[\\w.-][\\w.-]\\.kissjav\\.com$",
+        "^cdn[\\w.-]\\.18girlssex\\.com$"
       ]
     }
   ]
