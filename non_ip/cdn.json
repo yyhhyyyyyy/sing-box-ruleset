@@ -16,8 +16,11 @@
         "web-assets.zendesk",
         "-res.cloudinary.com",
         "dsn.algolia.net",
+        "-thumbs.pornhost.com",
         "-cdn.eporner.com",
-        "cdn.adultempire.com"
+        "cdn.adultempire.com",
+        "-assets.worldsex.com",
+        "-thumbs.worldsex.com"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
@@ -28,7 +31,6 @@
         "^object-storage-[\\w.-]*?\\.vexxhost\\.net$",
         "^i[\\w.-]\\.nhentai\\.net$",
         "^t[\\w.-]\\.nhentai\\.net$",
-        "^cdn[\\w.-]-thumbs\\.pornhost\\.com$",
         "^cdn[\\w.-]-dl\\.pornhost\\.com$",
         "^cdn-msp[\\w.-]\\.18comic\\.vip$",
         "^cdn-msp[\\w.-]\\.jmcomic\\.me$",
@@ -46,7 +48,7 @@
         "^browser-intake-[\\w.-]*?-datadoghq\\.com$",
         "^video-thumbnail2\\.fc2\\.com$",
         "^video[\\w.-]-thumbnail[\\w.-]\\.fc2\\.com$",
-        "^video-thumbnail2\\.liaoningmovie\\.net$",
+        "^video-thumbnail[\\w.-]\\.liaoningmovie\\.net$",
         "^video[\\w.-]-thumbnail[\\w.-]\\.liaoningmovie\\.net$",
         "^vip-videoprem[\\w.-]*?-thumbnail[\\w.-]\\.fc2\\.com$",
         "^blog-imgs-[\\w.-][\\w.-]\\.2nt\\.com$",
