@@ -63,6 +63,7 @@
         "^s[\\w.-][\\w.-]\\.maxstream\\.org$",
         "^media[\\w.-]\\.kissjav\\.com$",
         "^media[\\w.-][\\w.-]\\.kissjav\\.com$",
+        "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$"
       ]
     }
