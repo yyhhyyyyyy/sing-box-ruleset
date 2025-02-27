@@ -2,8 +2,59 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"]
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "mobile.hotspot",
+        "unifi",
+        "ntt.setup",
+        "pi.hole",
+        "homerouter.cpe",
+        "setmeup.arubanetworks.com",
+        "instant.arubanetworks.com",
+        "console.gl-inet.com",
+        "repeater.asus.com",
+        "router.asus.com",
+        "aterm.me"
+      ],
+      "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "localdomain",
+        "router",
+        "plex.direct",
+        "ui.direct",
+        "home",
+        "168.192.in-addr.arpa",
+        "31.172.in-addr.arpa",
+        "30.172.in-addr.arpa",
+        "29.172.in-addr.arpa",
+        "28.172.in-addr.arpa",
+        "27.172.in-addr.arpa",
+        "26.172.in-addr.arpa",
+        "25.172.in-addr.arpa",
+        "24.172.in-addr.arpa",
+        "23.172.in-addr.arpa",
+        "22.172.in-addr.arpa",
+        "21.172.in-addr.arpa",
+        "20.172.in-addr.arpa",
+        "19.172.in-addr.arpa",
+        "18.172.in-addr.arpa",
+        "17.172.in-addr.arpa",
+        "16.172.in-addr.arpa",
+        "254.169.in-addr.arpa",
+        "10.in-addr.arpa",
+        "home.arpa",
+        "tplinkrepeater.net",
+        "tplinkplclogin.net",
+        "tplinkmodem.net",
+        "routerlogin.net",
+        "tplinkwifi.net",
+        "tplinkap.net",
+        "lan",
+        "huaweimobilewifi.com",
+        "routerlogin.com",
+        "asusrouter.com",
+        "tplogin.cn"
+      ]
     }
   ]
 }
