@@ -5,7 +5,6 @@
       "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "ip_cidr": [
-        "5.253.59.162/32",
         "10.72.25.0/24",
         "23.202.231.167/32",
         "23.217.138.108/32",
