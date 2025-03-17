@@ -20,7 +20,8 @@
         "-cdn.eporner.com",
         "cdn.adultempire.com",
         "-assets.worldsex.com",
-        "-thumbs.worldsex.com"
+        "-thumbs.worldsex.com",
+        "99avcdn"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
@@ -65,6 +66,7 @@
         "^s[\\w.-][\\w.-]\\.maxstream\\.org$",
         "^media[\\w.-]\\.kissjav\\.com$",
         "^media[\\w.-][\\w.-]\\.kissjav\\.com$",
+        "^chunk-[\\w.-]*?\\.mux\\.com$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$"
       ]

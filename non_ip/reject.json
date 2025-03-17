@@ -162,7 +162,12 @@
         "wxsnsdy",
         "adwords",
         "-tracker.biliapi.net",
-        "ad.ixigua.com"
+        "ad.ixigua.com",
+        "trksvg.business.hsbc.",
+        "trkgbm.business.hsbc.",
+        "trkhinv.business.hsbc.",
+        "trkcmb.business.hsbc.",
+        "-analytics-events.apple.com"
       ],
       "domain_regex": [
         "^f-log[\\w.-]*?\\.grammarly\\.io$",
