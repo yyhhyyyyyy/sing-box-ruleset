@@ -21,7 +21,8 @@
         "cdn.adultempire.com",
         "-assets.worldsex.com",
         "-thumbs.worldsex.com",
-        "99avcdn"
+        "99avcdn",
+        "-images.disco-api.com"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
