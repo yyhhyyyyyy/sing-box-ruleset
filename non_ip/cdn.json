@@ -68,6 +68,7 @@
         "^media[\\w.-]\\.kissjav\\.com$",
         "^media[\\w.-][\\w.-]\\.kissjav\\.com$",
         "^chunk-[\\w.-]*?\\.mux\\.com$",
+        "^[\\w.-]*?\\.skyearth[\\w.-]\\.xyz$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$"
       ]
