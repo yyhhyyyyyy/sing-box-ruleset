@@ -65,6 +65,7 @@
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "data",
         "httpdns.pro",
         "telemetry-coverage.mozilla.org",
         "telemetry.mozilla.org",

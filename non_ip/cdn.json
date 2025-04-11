@@ -70,7 +70,8 @@
         "^chunk-[\\w.-]*?\\.mux\\.com$",
         "^[\\w.-]*?\\.skyearth[\\w.-]\\.xyz$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
-        "^cdn[\\w.-]\\.18girlssex\\.com$"
+        "^cdn[\\w.-]\\.18girlssex\\.com$",
+        "^uploads-[\\w.-]*?\\.insided\\.com$"
       ]
     }
   ]
