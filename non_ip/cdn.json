@@ -22,7 +22,9 @@
         "-assets.worldsex.com",
         "-thumbs.worldsex.com",
         "99avcdn",
-        "-images.disco-api.com"
+        "-images.disco-api.com",
+        "vdownload.hanime1",
+        "fonts.hanime1"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
@@ -71,7 +73,8 @@
         "^[\\w.-]*?\\.skyearth[\\w.-]\\.xyz$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$",
-        "^uploads-[\\w.-]*?\\.insided\\.com$"
+        "^uploads-[\\w.-]*?\\.insided\\.com$",
+        "^s[\\w.-]*?\\.hanime1$"
       ]
     }
   ]
