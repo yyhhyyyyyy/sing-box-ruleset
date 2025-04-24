@@ -10,6 +10,7 @@
         "edge.api.brightcove.com",
         "cbsplaylistserver.aws.syncbak.com",
         "cbsservice.aws.syncbak.com",
+        "prod-api.crackle.com",
         "cbsi.live.ott.irdeto.com"
       ],
       "domain_suffix": [
