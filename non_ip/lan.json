@@ -22,6 +22,7 @@
         "router",
         "plex.direct",
         "ui.direct",
+        "local",
         "home",
         "168.192.in-addr.arpa",
         "31.172.in-addr.arpa",

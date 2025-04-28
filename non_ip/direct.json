@@ -27,6 +27,7 @@
         "router",
         "plex.direct",
         "ui.direct",
+        "local",
         "bogon",
         "52pt.site",
         "concertos.live",
