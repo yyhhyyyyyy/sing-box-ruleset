@@ -74,7 +74,8 @@
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$",
         "^uploads-[\\w.-]*?\\.insided\\.com$",
-        "^s[\\w.-]*?\\.hanime1$"
+        "^s[\\w.-]*?\\.hanime1$",
+        "^img-[\\w.-]*?\\.now\\.com$"
       ]
     }
   ]
