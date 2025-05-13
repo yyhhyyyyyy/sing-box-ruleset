@@ -3,12 +3,12 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "gs-loc-cn.apple.com",
         "api.smoot.apple.cn"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "gspe19-cn-ssl.ls.apple.com",
         "cn-ssl.ls.apple.com",
         "cn.ls.apple.com",

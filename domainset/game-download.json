@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "pf-cdn-content-prod.azureedge.net",
         "gamedownloads-rockstargames-com.akamaized.net",
         "epicgames-download1.akamaized.net",
@@ -42,7 +42,7 @@
         "client.hikarifield.co.jp"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "steamserver.net",
         "dl.playstation.net",
         "wup.eshop.nintendo.net",

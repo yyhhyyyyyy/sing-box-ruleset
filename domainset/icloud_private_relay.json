@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "mask.apple-dns.net",
         "canary.mask.apple-dns.net",
         "mask-canary.icloud.com",
@@ -11,7 +11,7 @@
         "mask-h2.icloud.com",
         "mask.icloud.com"
       ],
-      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"]
+      "domain_suffix": ["th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe"]
     }
   ]
 }

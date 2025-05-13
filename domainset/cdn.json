@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "cdn.arcade.software",
         "media.infosec.exchange",
         "static.ada.support",
@@ -165,6 +165,8 @@
         "moderate.cleantalk.org",
         "images.videolan.org",
         "static.tronscan.org",
+        "static.spigotmc.org",
+        "proxy.spigotmc.org",
         "open-vsx.org",
         "demotiles.maplibre.org",
         "api.indexnow.org",
@@ -2544,7 +2546,7 @@
         "rules.ac"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "static.microsoft",
         "replicate.delivery",
         "addons.business",

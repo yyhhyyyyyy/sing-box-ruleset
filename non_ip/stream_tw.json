@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "d3c7rimkq79yfu.cloudfront.net",
         "players.brightcove.net",
         "manifest.prod.boltdns.net",
@@ -16,7 +16,7 @@
         "hbounify-prod.evergent.com"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "kk.stream",
         "hbogoasia.com",
         "viblast.com",

@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "news.ycombinator.com",
         "ees.elsevier.com",
         "community.oneplus.com",
@@ -16,7 +16,7 @@
         "store.ui.com.cn"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "community",
         "network",
         "x.company",
@@ -739,6 +739,7 @@
         "infoq.com",
         "imgur.com",
         "ifttt.com",
+        "hyvor.com",
         "huobi.com",
         "googl.com",
         "gmail.com",

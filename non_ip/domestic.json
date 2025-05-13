@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "doh.pub",
         "ocsp2.globalsign.com",
         "ocsp.globalsign.com",
@@ -24,7 +24,7 @@
         "url.cn"
       ],
       "domain_suffix": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "c-t.work",
         "mijia.tech",
         "xunyou.mobi",

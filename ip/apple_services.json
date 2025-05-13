@@ -2,8 +2,8 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
-      "domain_suffix": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": ["th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe"],
+      "domain_suffix": ["th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe"],
       "ip_cidr": [
         "17.0.0.0/8",
         "63.92.224.0/19",
