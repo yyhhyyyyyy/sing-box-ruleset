@@ -195,6 +195,12 @@
         "dc.pimentaafricana",
         "-txtagstore",
         "thetollroads-",
+        "-go.experian.com",
+        "-adnow.com",
+        "dkswshap-",
+        ".srvqck",
+        ".fstsrv",
+        ".sagewwl",
         "_vmind.qqvideo.tc.qq.com",
         "-logging.nextmedia.com",
         "-spiky.clevertap-prod.com",
@@ -235,6 +241,7 @@
         "-analytics-events.apple.com"
       ],
       "domain_regex": [
+        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
         "^f-log[\\w.-]*?\\.grammarly\\.io$",
         "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
         "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
