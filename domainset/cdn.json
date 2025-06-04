@@ -2076,6 +2076,7 @@
         "assets.ecomm.ui.com",
         "cdn.ecomm.ui.com",
         "net-fe-static-assets.network-controller.svc.ui.com",
+        "uos-support-files.svc.ui.com",
         "account-cdn.svc.ui.com",
         "images.svc.ui.com",
         "fonts.svc.ui.com",
