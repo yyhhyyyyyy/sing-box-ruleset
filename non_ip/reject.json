@@ -238,7 +238,12 @@
         "trkgbm.business.hsbc.",
         "trkhinv.business.hsbc.",
         "trkcmb.business.hsbc.",
-        "-analytics-events.apple.com"
+        "-analytics-events.apple.com",
+        "-ad.video.yximgs.com",
+        "-ad.sm.cn",
+        "-ad.wtzw.com",
+        "-be-pack-sign.pglstatp-toutiao.com",
+        "-normal.zijieapi.com"
       ],
       "domain_regex": [
         "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
