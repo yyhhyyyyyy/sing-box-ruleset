@@ -8,7 +8,10 @@
         "^download[\\w.-]*?\\.mediafire\\.com$",
         "^ftp\\.[\\w.-][\\w.-]\\.debian\\.org$",
         "^ftp\\.[\\w.-][\\w.-]\\.freebsd\\.org$",
-        "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$"
+        "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$",
+        "^cdn-[\\w.-]*?\\.comaps\\.app$",
+        "^cdn-[\\w.-]*?\\.comaps\\.tech$",
+        "^cdn-[\\w.-]*?\\.organicmaps\\.app$"
       ]
     }
   ]
