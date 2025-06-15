@@ -4,48 +4,19 @@
     {
       "domain": [
         "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
-        "daisydiskapp.com"
+        "daisydiskapp.com",
+        "userlocation.googleapis.com"
       ],
       "domain_suffix": [
         "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
-        "ppio.cloud",
         "0.0.198.in-addr.arpa",
-        "yfp2p.net",
-        "yfcdn.net",
-        "onethingpcs.com",
-        "tianwenca.com",
-        "pkoplink.com",
-        "kuiniuca.com",
         "genuine.autodesk.com",
-        "yfcloud.com",
-        "saxysec.com",
-        "pcdn.yximgs.com",
-        "szbdyd.com",
         "cool3c.com",
-        "xycdn.com",
-        "uhabo.com",
-        "p2cdn.com",
-        "p2p.huya.com",
         "look.163.com",
-        "p2ptun.qq.com",
-        "p2pupgrade.gamedl.qq.com",
-        "p2pupdate.gamedl.qq.com",
-        "p2p.qq.com",
         "adobestats.io",
-        "adobe.io",
-        "cdnnodedns.cn",
-        "bilivideo.cn",
-        "p2perrorlog.douyucdn.cn",
-        "p2plog.douyucdn.cn"
+        "adobe.io"
       ],
       "domain_keyword": ["bahoom"],
-      "domain_regex": [
-        "^p2p-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^p2pchunk-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^dyp2p-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^p2plive-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^p2p[\\w.-]*?-ws\\.douyucdn\\.cn$"
-      ],
       "process_name": [
         "Tencent Lemon",
         "LemonMonitor",
