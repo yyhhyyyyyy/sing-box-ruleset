@@ -21,16 +21,19 @@
         "hbogoasia.com",
         "viblast.com",
         "hboasia.com",
+        "hbogoasia.tw",
         "linetv.tw",
         "bahamut.com.tw",
         "ani.gamer.com.tw",
         "kktv.com.tw",
         "litv.tv",
         "4gtv.tv",
+        "hbogoasia.sg",
+        "hbogoasia.ph",
         "kktv.me",
+        "hbogoasia.id",
         "hbogoasia.hk"
       ],
-      "domain_keyword": [".hbogoasia."],
       "process_name": ["com.linecorp.linetv"]
     }
   ]

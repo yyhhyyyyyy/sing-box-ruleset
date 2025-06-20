@@ -26,12 +26,16 @@
         "viu.com",
         "tvb.com",
         "viu.now.com",
+        "hbogoasia.tw",
         "bilibili.tv",
         "viu.tv",
+        "hbogoasia.sg",
+        "hbogoasia.ph",
+        "hbogoasia.id",
         "hbogoasia.hk",
         "psg.cdn.hgc.com.hk"
       ],
-      "domain_keyword": ["nowtv100", "rthklive", ".hbogoasia."],
+      "domain_keyword": ["nowtv100", "rthklive"],
       "process_name": [
         "com.viu.pad",
         "com.viu.phone",

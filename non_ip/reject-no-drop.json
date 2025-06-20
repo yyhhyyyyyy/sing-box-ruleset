@@ -30,11 +30,11 @@
         "p2plog.douyucdn.cn"
       ],
       "domain_regex": [
-        "^p2p-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^p2pchunk-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^dyp2p-[\\w.-]*?\\.douyucdn\\.cn$",
+        "^p2p[\\w.-]*?-ws\\.douyucdn\\.cn$",
         "^p2plive-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^p2p[\\w.-]*?-ws\\.douyucdn\\.cn$"
+        "^dyp2p-[\\w.-]*?\\.douyucdn\\.cn$",
+        "^p2pchunk-[\\w.-]*?\\.douyucdn\\.cn$",
+        "^p2p-[\\w.-]*?\\.douyucdn\\.cn$"
       ]
     }
   ]
