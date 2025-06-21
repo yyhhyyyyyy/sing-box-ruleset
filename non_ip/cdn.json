@@ -10,6 +10,22 @@
         "cdn-msp.jmcomic.me"
       ],
       "domain_suffix": ["th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe"],
+      "domain_keyword": [
+        "-files.gitbook.io",
+        "vod-adaptive.akamaized.net",
+        "web-assets.zendesk",
+        "-res.cloudinary.com",
+        "dsn.algolia.net",
+        "-thumbs.pornhost.com",
+        "-cdn.eporner.com",
+        "cdn.adultempire.com",
+        "-assets.worldsex.com",
+        "-thumbs.worldsex.com",
+        "99avcdn",
+        "-images.disco-api.com",
+        "vdownload.hanime1",
+        "fonts.hanime1"
+      ],
       "domain_regex": [
         "^s[\\w.-]*?\\.hanime1$",
         "^[\\w.-]*?\\.skyearth[\\w.-]\\.xyz$",
@@ -60,22 +76,6 @@
         "^i[\\w.-]\\.nhentai\\.net$",
         "^object-storage-[\\w.-]*?\\.vexxhost\\.net$",
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$"
-      ],
-      "domain_keyword": [
-        "-files.gitbook.io",
-        "vod-adaptive.akamaized.net",
-        "web-assets.zendesk",
-        "-res.cloudinary.com",
-        "dsn.algolia.net",
-        "-thumbs.pornhost.com",
-        "-cdn.eporner.com",
-        "cdn.adultempire.com",
-        "-assets.worldsex.com",
-        "-thumbs.worldsex.com",
-        "99avcdn",
-        "-images.disco-api.com",
-        "vdownload.hanime1",
-        "fonts.hanime1"
       ]
     }
   ]
