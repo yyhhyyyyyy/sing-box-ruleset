@@ -63,7 +63,8 @@
         "ttnet-dig.feishu.cn",
         "doh.zjurl.cn",
         "dns.weibo.cn",
-        "dns.weixin.qq.com.cn"
+        "dns.weixin.qq.com.cn",
+        "dns.m.sm.cn"
       ],
       "domain_suffix": [
         "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
@@ -235,7 +236,7 @@
         "wxsnsdy",
         "adwords",
         "-tracker.biliapi.net",
-        "ad.ixigua.com",
+        "-ad.ixigua.com",
         "trksvg.business.hsbc.",
         "trkgbm.business.hsbc.",
         "trkhinv.business.hsbc.",
