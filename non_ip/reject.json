@@ -537,7 +537,6 @@
         "^beacons[\\w.-]*?\\.gvt3\\.com$",
         "^analytics\\.[\\w.-]*?\\.sky\\.com$",
         "^i-[\\w.-]*?\\.ci360\\.sas\\.com$",
-        "^analyzer[\\w.-]*?\\.fc2\\.com$",
         "^report\\.[\\w.-]*?\\.qq\\.com$",
         "^apple-[\\w.-]*?\\.le\\.com$",
         "^c\\.blue\\.[\\w.-]*?\\.com$",
