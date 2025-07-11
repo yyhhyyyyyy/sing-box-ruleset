@@ -471,7 +471,6 @@
         "^cs[\\w.-]*?\\.mp3bars\\.com$",
         "^dn[\\w.-]*?\\.ixinwei\\.com$",
         "^ana[\\w.-]*?\\.inews24\\.com$",
-        "^events-[\\w.-]*?\\.op\\.hicloud\\.com$",
         "^ulog[\\w.-]*?\\.gifshow\\.com$",
         "^mon[\\w.-]*?-misc-lf\\.fqnovel\\.com$",
         "^mon[\\w.-]*?-misc\\.fqnovel\\.com$",
