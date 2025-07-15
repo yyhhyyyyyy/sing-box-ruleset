@@ -555,6 +555,7 @@
         "^azuki-[\\w.-]*?\\.vercel\\.app$",
         "^authsignonstaff[\\w.-]*?\\.softr\\.app$",
         "^tracking-v[\\w.-]*?\\.a\\.run\\.app$",
+        "^tw-726620180914\\.[\\w.-]*?\\.run\\.app$",
         "^log[\\w.-]*?\\.vietnamplus\\.vn$",
         "^admicro[\\w.-]*?\\.vcmedia\\.vn$",
         "^log-[\\w.-]*?\\.zadn\\.vn$",
