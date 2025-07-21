@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
+        "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "cdn.arcade.software",
         "media.infosec.exchange",
         "static.ada.support",
@@ -183,6 +183,7 @@
         "api.indexnow.org",
         "assets.exercism.org",
         "david-dm.org",
+        "design.codeberg.org",
         "fonts.codeberg.org",
         "static.aizanmei.org",
         "tools-static.wmflabs.org",
@@ -463,6 +464,7 @@
         "img.skk.moe",
         "objects.hit.moe",
         "static.coinall.ltd",
+        "image.acg.lol",
         "cdn.cbd.int",
         "images-assets.nasa.gov",
         "smd-cms.nasa.gov",
@@ -710,7 +712,6 @@
         "widgets.zohosalesiq.com",
         "images.youracclaim.com",
         "bookface-static.ycombinator.com",
-        "img2.xiangbinjun.com",
         "storage.windiscover.com",
         "static.webclicks24.com",
         "cdn.webclicks24.com",
@@ -2652,7 +2653,7 @@
         "rules.ac"
       ],
       "domain_suffix": [
-        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
+        "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "static.microsoft",
         "replicate.delivery",
         "addons.business",
@@ -2697,7 +2698,6 @@
         "nel.goog",
         "ipfs.cyou",
         "ymq.cool",
-        "ipfs.drink.cafe",
         "porn5.asia",
         "mirror-media.xyz",
         "packd.liuxingbaoyu.xyz",
@@ -3147,6 +3147,7 @@
         "cloud1.influxdata.com",
         "cloud.influxdata.com",
         "imgikuncdn.com",
+        "imagetwist.com",
         "hs-scripts.com",
         "images.hentaicity.com",
         "content-storage-upload.googleapis.com",
@@ -3538,7 +3539,6 @@
         "files.bbci.co.uk",
         "pimg.tw",
         "storry.tv",
-        "7mmtv.tv",
         "ninjastream.to",
         "easylist.to",
         "pixhost.to",
@@ -3655,6 +3655,7 @@
         "gw3.io",
         "cdn.imgeng.in",
         "cloudfront.net.in",
+        "yygimg.im",
         "alexdav.id",
         "ipfs.trusti.id",
         "i-dont-care-about-cookies.eu",
