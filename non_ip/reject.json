@@ -355,6 +355,7 @@
         "^agripro-fr-[\\w.-]*?\\.com$",
         "^mob[\\w.-]*?\\.novanewsapp\\.com$",
         "^hstats[\\w.-]*?\\.hepsiburada\\.com$",
+        "^hba[\\w.-]*?\\.hepsiburada\\.com$",
         "^geoloc[\\w.-]*?\\.geo20120530\\.com$",
         "^lcldetecthumainweb[\\w.-]*?\\.firebaseapp\\.com$",
         "^ac[\\w.-]*?\\.faxingchina\\.com$",
