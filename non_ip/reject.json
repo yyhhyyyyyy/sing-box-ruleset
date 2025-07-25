@@ -545,6 +545,7 @@
         "^apple-[\\w.-]*?\\.le\\.com$",
         "^c\\.blue\\.[\\w.-]*?\\.com$",
         "^irs\\.gov\\.[\\w.-]*?\\.com$",
+        "^vietcombank[\\w.-]*?\\.cfd$",
         "^plum-binder-[\\w.-]*?\\.typedream\\.app$",
         "^support-metahelpcenter-id[\\w.-]*?\\.netlify\\.app$",
         "^govern-assessment-validation-[\\w.-]*?\\.vercel\\.app$",
