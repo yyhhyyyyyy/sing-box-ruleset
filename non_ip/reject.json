@@ -243,12 +243,14 @@
         "trkhinv.business.hsbc.",
         "trkcmb.business.hsbc.",
         "-analytics-events.apple.com",
+        "-ads.realmemobile.com",
         "-ad.video.yximgs.com",
         "-ad.a.yximgs.com",
         "-ad.sm.cn",
         "-ad.wtzw.com",
         "-be-pack-sign.pglstatp-toutiao.com",
-        "-normal.zijieapi.com"
+        "-normal.zijieapi.com",
+        "pangolin-sdk-toutiao"
       ],
       "domain_regex": [
         "^santander\\.[\\w.-]*?\\.fino\\.digital$",
@@ -380,7 +382,6 @@
         "^[\\w.-]*?\\.a-akamaihd\\.com$",
         "^mail\\.[\\w.-]*?-coinbase\\.com$",
         "^clog[\\w.-]*?\\.yuanfudao\\.com$",
-        "^steam\\.workshop[\\w.-]*?\\.com$",
         "^attonlineservice[\\w.-]*?\\.wixstudio\\.com$",
         "^widgets\\.[\\w.-]*?\\.webengage\\.com$",
         "^collector-[\\w.-]*?\\.tvsquared\\.com$",
@@ -490,12 +491,14 @@
         "^js[\\w.-]*?\\.abolezi\\.com$",
         "^dm[\\w.-]*?\\.yxlady\\.com$",
         "^impservice[\\w.-]*?\\.youdao\\.com$",
+        "^ads-[\\w.-]*?\\.xhscdn\\.com$",
         "^2025[\\w.-]*?maintenance\\.weebly\\.com$",
         "^currentlymail[\\w.-]*?\\.weebly\\.com$",
         "^testra[\\w.-]*?-covid\\.weebly\\.com$",
         "^currentlyatt[\\w.-]*?\\.weebly\\.com$",
         "^e-navy[\\w.-]*?\\.weebly\\.com$",
         "^mcs-[\\w.-]*?\\.tiktok\\.com$",
+        "^ads-[\\w.-]*?\\.tiktok\\.com$",
         "^cdn[\\w.-]*?\\.swaxis\\.com$",
         "^d[\\w.-]*?\\.ruiwen\\.com$",
         "^clk\\.rtpdn[\\w.-]*?\\.com$",
@@ -666,7 +669,6 @@
         "^ad[\\w.-]*?\\.on\\.cc$",
         "^vssid\\.[\\w.-]*?\\.cc$",
         "^banner[\\w.-]*?\\.kinogo\\.by$",
-        "^noticiarecentesagora\\.net\\.klebeerlopees[\\w.-]*?\\.meusitehostgator\\.com\\.br$",
         "^mf[\\w.-]*?\\.advantage\\.as$"
       ],
       "ip_cidr": [
