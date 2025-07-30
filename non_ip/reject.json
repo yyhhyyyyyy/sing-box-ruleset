@@ -368,6 +368,7 @@
         "^btn\\.createsend[\\w.-]*?\\.com$",
         "^a[\\w.-]*?\\.chajiaotong\\.com$",
         "^tnc16-[\\w.-]*?\\.byteoversea\\.com$",
+        "^mon-[\\w.-]*?\\.byteoversea\\.com$",
         "^log[\\w.-]*?\\.byteoversea\\.com$",
         "^batchlogging[\\w.-]*?-noneu\\.truecaller\\.com$",
         "^batchlogging[\\w.-]*?-eu\\.truecaller\\.com$",
