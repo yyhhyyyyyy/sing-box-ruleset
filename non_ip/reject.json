@@ -550,6 +550,7 @@
         "^analytics[\\w.-]*?\\.prezly\\.com$",
         "^cdn[\\w.-]*?\\.pdmntn\\.com$",
         "^dw-informer-[\\w.-]*?\\.newsru\\.com$",
+        "^[\\w.-]*?adapt-beacon\\.awsprodops\\.movetv\\.com$",
         "^mediate-ios-[\\w.-]*?\\.hyprmx\\.com$",
         "^marketplace-[\\w.-]*?\\.hyprmx\\.com$",
         "^fanpingbi[\\w.-]*?\\.gaokao\\.com$",
