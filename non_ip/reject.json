@@ -685,6 +685,7 @@
         "^events[\\w.-]*?\\.cre\\.ma$",
         "^analytics[\\w.-]*?\\.carambo\\.la$",
         "^ad[\\w.-]*?\\.wisenut\\.co\\.kr$",
+        "^chat[\\w.-]*?-ce\\.chatdealer\\.jp$",
         "^bar[\\w.-]*?\\.shinobi\\.jp$",
         "^mapi-log\\.qoo[\\w.-]*?\\.jp$",
         "^api[\\w.-]*?\\.bidmachine\\.io$",

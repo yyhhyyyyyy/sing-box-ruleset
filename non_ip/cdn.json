@@ -58,6 +58,7 @@
         "^ocsp\\.[\\w.-]*?\\.amazontrust\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$",
         "^s3\\.[\\w.-]*?\\.wasabisys\\.com$",
+        "^cdn-[\\w.-]*?\\.microsoft\\.com$",
         "^cdn\\.[\\w.-]*?\\.microsoft\\.com$",
         "^assets[\\w.-]*?\\.freshdesk\\.com$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
@@ -83,7 +84,8 @@
         "^static[\\w.-][\\w.-]\\.tgstat\\.ru$",
         "^static[\\w.-]\\.tgstat\\.ru$",
         "^cdn-msp[\\w.-]\\.jmcomic\\.me$",
-        "^sdk\\.[\\w.-]*?\\.braze\\.eu$"
+        "^sdk\\.[\\w.-]*?\\.braze\\.eu$",
+        "^assets\\.[\\w.-]*?\\.imaga\\.co$"
       ]
     }
   ]
