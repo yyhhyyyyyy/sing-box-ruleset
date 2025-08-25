@@ -375,6 +375,7 @@
         "^bot-check-v[\\w.-]*?\\.b-cdn\\.net$",
         "^weoidnet[\\w.-]*?\\.b-cdn\\.net$",
         "^t[\\w.-]*?\\.zcvh\\.net$",
+        "^telemetry\\.[\\w.-]*?\\.pvp\\.net$",
         "^counter[\\w.-]*?-yadro[\\w.-]*?-ru\\.unblocked\\.lol$",
         "^telezelm-[\\w.-]*?\\.icu$",
         "^whatsapp[\\w.-]*?\\.icu$",
