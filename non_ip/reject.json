@@ -380,6 +380,8 @@
         "^telezelm-[\\w.-]*?\\.icu$",
         "^whatsapp[\\w.-]*?\\.icu$",
         "^d[\\w.-]*?wsapp\\.icu$",
+        "^profile-ourtime\\.[\\w.-]*?\\.workers\\.dev$",
+        "^voice-ourtime\\.[\\w.-]*?\\.workers\\.dev$",
         "^business-facebook-[\\w.-]*?\\.pages\\.dev$",
         "^help-for-work-[\\w.-]*?\\.pages\\.dev$",
         "^apples-24x7-[\\w.-]*?\\.pages\\.dev$",
