@@ -832,13 +832,7 @@
         "3.cn",
         "chaoxing.cc"
       ],
-      "domain_regex": [
-        "^[\\w.-]*?\\.ffzy-online[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.ffzy-play[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-][\\w.-]\\.com$",
-        "^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-]\\.com$"
-      ]
+      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
     }
   ]
 }
