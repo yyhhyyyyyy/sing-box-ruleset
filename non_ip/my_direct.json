@@ -12,8 +12,7 @@
         "engage.cloudflareclient.com",
         "download.555mac.com"
       ],
-      "domain_keyword": ["mac-torrent-download"],
-      "process_name": ["AdGuardHome", "nmap"]
+      "domain_keyword": ["mac-torrent-download"]
     }
   ]
 }

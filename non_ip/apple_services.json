@@ -21,18 +21,6 @@
         "me.com",
         "appsto.re",
         "apple.co"
-      ],
-      "process_name": [
-        "trustd",
-        "netbiosd",
-        "com.apple.geod",
-        "mapspushd",
-        "com.apple.Maps",
-        "apsd",
-        "fmfd",
-        "findmydevice-user-agent",
-        "CoreLocationAgent",
-        "WeatherWidget"
       ]
     }
   ]

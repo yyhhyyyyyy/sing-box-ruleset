@@ -272,22 +272,6 @@
         "-spotify-com",
         "-tiktokcdn-com",
         "tvbanywhere"
-      ],
-      "process_name": [
-        "com.amazon.avod.thirdpartyclient",
-        "tv",
-        "music",
-        "com.bstar.intl",
-        "com.hulu.plus",
-        "com.tencent.ibg.joox",
-        "com.linecorp.linetv",
-        "com.netflix.mediaclient",
-        "com.twgood.android",
-        "tv.twitch.android.app",
-        "com.viu.pad",
-        "com.viu.phone",
-        "com.vuclip.viu",
-        "com.hktve.viutv"
       ]
     }
   ]

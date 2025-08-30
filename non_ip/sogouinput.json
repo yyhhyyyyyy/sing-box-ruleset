@@ -16,8 +16,7 @@
         "get.sogou.com",
         "sginput.qq.com",
         "beacon.qq.com"
-      ],
-      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"]
+      ]
     }
   ]
 }

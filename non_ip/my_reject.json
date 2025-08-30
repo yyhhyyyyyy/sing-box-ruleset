@@ -20,15 +20,7 @@
         "adobestats.io",
         "adobe.io"
       ],
-      "domain_keyword": ["bahoom", "-flv.meituan.net", "-live.meituan.net"],
-      "process_name": [
-        "Tencent Lemon",
-        "LemonMonitor",
-        "LemonDaemon",
-        "LemonAgent",
-        "LemonService"
-      ],
-      "port": [7680]
+      "domain_keyword": ["bahoom", "-flv.meituan.net", "-live.meituan.net"]
     }
   ]
 }

@@ -35,14 +35,7 @@
         "hbogoasia.hk",
         "psg.cdn.hgc.com.hk"
       ],
-      "domain_keyword": ["nowtv100", "rthklive"],
-      "process_name": [
-        "com.viu.pad",
-        "com.viu.phone",
-        "com.vuclip.viu",
-        "com.hktve.viutv",
-        "com.bstar.intl"
-      ]
+      "domain_keyword": ["nowtv100", "rthklive"]
     }
   ]
 }
