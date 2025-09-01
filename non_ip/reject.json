@@ -397,7 +397,6 @@
         "^pijama\\.[\\w.-]*?\\.elasticbeanstalk\\.com$",
         "^usps-packages-[\\w.-]*?\\.com$",
         "^log-[\\w.-]*?\\.previewnetworks\\.com$",
-        "^highcpmrevenue[\\w.-]*?\\.com$",
         "^analytics[\\w.-]*?\\.clickdimensions\\.com$",
         "^host[\\w.-]*?\\.rigbyandpeller\\.com$",
         "^profitablecpm[\\w.-]*?\\.com$",
