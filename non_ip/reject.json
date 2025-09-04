@@ -323,6 +323,7 @@
         "^bitvavo[\\w.-]*?\\.vip$",
         "^baoviet[\\w.-]*?\\.vip$",
         "^dichvucong[\\w.-]*?\\.top$",
+        "^dwp-yous[\\w.-]*?\\.top$",
         "^informed\\.delivery[\\w.-]*?\\.top$",
         "^bitvavo[\\w.-]*?\\.top$",
         "^baoviet[\\w.-]*?\\.top$",
