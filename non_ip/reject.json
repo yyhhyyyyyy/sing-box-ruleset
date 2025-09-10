@@ -746,6 +746,7 @@
         "^bitvavo[\\w.-]*?\\.cc$",
         "^ad[\\w.-]*?\\.on\\.cc$",
         "^vssid\\.[\\w.-]*?\\.cc$",
+        "^logstash-[\\w.-]*?\\.radio-canada\\.ca$",
         "^banner[\\w.-]*?\\.kinogo\\.by$",
         "^mf[\\w.-]*?\\.advantage\\.as$"
       ],
