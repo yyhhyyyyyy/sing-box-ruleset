@@ -282,6 +282,7 @@
         "workers.dev",
         "sentry.dev",
         "github.dev",
+        "zenn.dev",
         "web.dev",
         "fly.dev",
         "aws.dev",

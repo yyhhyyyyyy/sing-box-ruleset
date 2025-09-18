@@ -13,6 +13,8 @@
         "bcdn.starapps.studio",
         "cdn.starapps.studio",
         "public.flourish.studio",
+        "static.zenn.studio",
+        "embed.zenn.studio",
         "mstdn-s3.o3o.studio",
         "files.mastodon.social",
         "assets.mozilla.social",
