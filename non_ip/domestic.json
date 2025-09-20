@@ -4,7 +4,9 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "dot.pub",
         "doh.pub",
+        "dns.pub",
         "kms.03k.org",
         "ocsp2.globalsign.com",
         "ocsp.globalsign.com",
@@ -405,6 +407,7 @@
         "52tesla.com",
         "3dmgame.com",
         "36krcdn.com",
+        "360simg.com",
         "360safe.com",
         "360kuai.com",
         "321fenx.com",
