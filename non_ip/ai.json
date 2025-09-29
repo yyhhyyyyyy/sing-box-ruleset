@@ -16,6 +16,7 @@
         "generativeai.google",
         "notebooklm.google",
         "deepmind.google",
+        "gemini.google",
         "proactivebackend-pa.googleapis.com",
         "generativelanguage.googleapis.com",
         "geller-pa.googleapis.com",
