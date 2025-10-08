@@ -567,6 +567,7 @@
         "packages.httpie.io",
         "store1.gofile.io",
         "download.fydeos.io",
+        "registry-1.docker.io",
         "rpm.xpipe.io",
         "apt.xpipe.io",
         "disks.webvm.io",
