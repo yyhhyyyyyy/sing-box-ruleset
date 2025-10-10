@@ -5,6 +5,8 @@
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "ai.google.dev",
+        "robinfrontend-pa.googleapis.com",
+        "aisandbox-pa.googleapis.com",
         "gateway.ai.cloudflare.com",
         "alkalicore-pa.clients6.google.com",
         "jules.google.com",
