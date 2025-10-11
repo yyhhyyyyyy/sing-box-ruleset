@@ -6,8 +6,8 @@
       "domain_suffix": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"],
       "domain_regex": [
         "^cdn-[\\w.-]*?\\.comaps\\.tech$",
-        "^ftp\\.[\\w.-][\\w.-]\\.freebsd\\.org$",
-        "^ftp\\.[\\w.-][\\w.-]\\.debian\\.org$",
+        "^ftp\\.$",
+        "^ftp\\.$",
         "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$",
         "^download[\\w.-]*?\\.mediafire\\.com$",
         "^cdn-[\\w.-]*?\\.organicmaps\\.app$",

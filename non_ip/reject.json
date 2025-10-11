@@ -313,7 +313,7 @@
         "^analytics-[\\w.-]*?\\.aasaam\\.com$",
         "^tracking\\.[\\w.-]*?\\.miui\\.com$",
         "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
+        "^beacons[\\w.-]*?\\.gvt$",
         "^f-log[\\w.-]*?\\.grammarly\\.io$"
       ],
       "ip_cidr": [

@@ -12,10 +12,10 @@
         "cdn.hinet.net"
       ],
       "domain_regex": [
-        "^[\\w.-]*?\\.ffzy-online[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.ffzy-play[\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-][\\w.-]\\.com$",
-        "^[\\w.-]*?\\.lz-cdn[\\w.-]\\.com$"
+        "^[\\w.-]*?\\.ffzy-online$",
+        "^[\\w.-]*?\\.ffzy-play$",
+        "^[\\w.-]*?\\.lz-cdn$",
+        "^[\\w.-]*?\\.lz-cdn$"
       ]
     }
   ]
