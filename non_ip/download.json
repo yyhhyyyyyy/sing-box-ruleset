@@ -5,13 +5,13 @@
       "domain": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"],
       "domain_suffix": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"],
       "domain_regex": [
-        "^cdn-[\\w.-]*?\\.comaps\\.tech$",
-        "^ftp\\.$",
-        "^ftp\\.$",
-        "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$",
         "^download[\\w.-]*?\\.mediafire\\.com$",
-        "^cdn-[\\w.-]*?\\.organicmaps\\.app$",
-        "^cdn-[\\w.-]*?\\.comaps\\.app$"
+        "^ftp\\.[\\w.-][\\w.-]\\.debian\\.org$",
+        "^ftp\\.[\\w.-][\\w.-]\\.freebsd\\.org$",
+        "^[\\w.-]*?\\.s3\\.[\\w.-]*?\\.backblazeb2\\.com$",
+        "^cdn-[\\w.-]*?\\.comaps\\.app$",
+        "^cdn-[\\w.-]*?\\.comaps\\.tech$",
+        "^cdn-[\\w.-]*?\\.organicmaps\\.app$"
       ]
     }
   ]

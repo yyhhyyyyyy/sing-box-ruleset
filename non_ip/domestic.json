@@ -839,7 +839,7 @@
         "3.cn",
         "chaoxing.cc"
       ],
-      "domain_regex": ["^[\\w.-]*?\\.qhimgs$"]
+      "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
     }
   ]
 }

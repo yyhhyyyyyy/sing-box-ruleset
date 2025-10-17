@@ -302,19 +302,19 @@
         "pangolin-sdk-toutiao"
       ],
       "domain_regex": [
+        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
+        "^f-log[\\w.-]*?\\.grammarly\\.io$",
         "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
         "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
+        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
         "^[\\w.-]*?-pcdn-[\\w.-]*?\\.biliapi\\.net$",
-        "^mon-[\\w.-]*?\\.byteoversea\\.com$",
-        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
-        "^pixel[\\w.-]*?\\.adswizz\\.com$",
-        "^ads-[\\w.-]*?\\.xhscdn\\.com$",
-        "^ads-[\\w.-]*?\\.tiktok\\.com$",
-        "^analytics-[\\w.-]*?\\.aasaam\\.com$",
         "^tracking\\.[\\w.-]*?\\.miui\\.com$",
         "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^beacons[\\w.-]*?\\.gvt$",
-        "^f-log[\\w.-]*?\\.grammarly\\.io$"
+        "^ads-[\\w.-]*?\\.xhscdn\\.com$",
+        "^ads-[\\w.-]*?\\.tiktok\\.com$",
+        "^mon-[\\w.-]*?\\.byteoversea\\.com$",
+        "^pixel[\\w.-]*?\\.adswizz\\.com$",
+        "^analytics-[\\w.-]*?\\.aasaam\\.com$"
       ],
       "ip_cidr": [
         "39.97.128.148/32",
