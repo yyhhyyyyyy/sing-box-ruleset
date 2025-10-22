@@ -30,7 +30,8 @@
         "99avcdn",
         "-images.disco-api.com",
         "vdownload.hanime1",
-        "fonts.hanime1"
+        "fonts.hanime1",
+        "static.grammarly.com"
       ],
       "domain_regex": [
         "^cdn\\.[\\w.-]*?\\.office\\.net$",
