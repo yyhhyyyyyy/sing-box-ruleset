@@ -306,6 +306,7 @@
         "^f-log[\\w.-]*?\\.grammarly\\.io$",
         "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
         "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
+        "^v[\\w.-]*?\\.thenewstack\\.io$",
         "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
         "^[\\w.-]*?-pcdn-[\\w.-]*?\\.biliapi\\.net$",
         "^tracking\\.[\\w.-]*?\\.miui\\.com$",
