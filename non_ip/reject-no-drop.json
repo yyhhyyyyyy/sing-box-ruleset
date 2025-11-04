@@ -44,7 +44,7 @@
         "^p2pchunk-[\\w.-]*?\\.douyucdn\\.cn$",
         "^dyp2p-[\\w.-]*?\\.douyucdn\\.cn$",
         "^p2plive-[\\w.-]*?\\.douyucdn\\.cn$",
-        "^stun[\\w.-]*?$"
+        "^stun[\\w.-]*?\\.douyucdn\\.cn$"
       ]
     }
   ]
