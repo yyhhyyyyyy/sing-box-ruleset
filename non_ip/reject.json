@@ -315,6 +315,7 @@
         "^ads-[\\w.-]*?\\.tiktok\\.com$",
         "^mon-[\\w.-]*?\\.byteoversea\\.com$",
         "^pixel[\\w.-]*?\\.adswizz\\.com$",
+        "^log[\\w.-]*?-normal-[\\w.-]*?\\.tiktokv\\.com$",
         "^analytics-[\\w.-]*?\\.aasaam\\.com$"
       ],
       "ip_cidr": [

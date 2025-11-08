@@ -11,13 +11,11 @@
         "aida.googleapis.com",
         "apple-relay.cloudflare.com",
         "cp4.cloudflare.com",
-        "cp2.cloudflare.com",
         "gateway.ai.cloudflare.com",
         "alkalicore-pa.clients6.google.com",
         "jules.google.com",
         "api.github.com",
         "apple-relay.apple.com",
-        "guzzoni.apple.com",
         "api.jetbrains.ai"
       ],
       "domain_suffix": [
@@ -39,7 +37,6 @@
         "aistudio.google.com",
         "gemini.google.com",
         "bard.google.com",
-        "smoot.apple.com",
         "sora.com",
         "groq.com",
         "grok.com",
