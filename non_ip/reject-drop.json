@@ -11,7 +11,8 @@
         "undefined",
         "null",
         "in.applicationinsights.azure.com",
-        "geo2.adobe.com"
+        "geo2.adobe.com",
+        "beacon.qq.com"
       ]
     }
   ]

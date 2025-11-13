@@ -86,7 +86,12 @@
         "^uploads-[\\w.-]*?\\.insided\\.com$",
         "^s[\\w.-]*?\\.hanime1$",
         "^img-[\\w.-]*?\\.now\\.com$",
-        "^assets\\.[\\w.-]*?\\.imaga\\.co$"
+        "^assets\\.[\\w.-]*?\\.imaga\\.co$",
+        "^cdn[\\w.-]*?\\.pigav\\.com$",
+        "^fastly-[\\w.-]*?\\.allmovie\\.com$",
+        "^cdn[\\w.-]*?\\.porn87\\.com$",
+        "^cdn[\\w.-]*?\\.pornhost\\.com$",
+        "^cdn[\\w.-]*?\\.boysfood\\.com$"
       ]
     }
   ]
