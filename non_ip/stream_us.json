@@ -8,10 +8,16 @@
         "dashasiafox.akamaized.net",
         "bcbolt446c5271-a.akamaihd.net",
         "edge.api.brightcove.com",
+        "athome.fandango.com",
         "cbsplaylistserver.aws.syncbak.com",
         "cbsservice.aws.syncbak.com",
         "prod-api.crackle.com",
-        "cbsi.live.ott.irdeto.com"
+        "tubitv.com",
+        "www.tubitv.com",
+        "cbsi.live.ott.irdeto.com",
+        "vudu.com",
+        "tubi.tv",
+        "www.tubi.tv"
       ],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
@@ -30,7 +36,6 @@
         "huluim.com",
         "foxdcg.com",
         "dnitv.com",
-        "vudu.com",
         "hulu.com",
         "cbsi.com",
         "sho.com",
@@ -42,6 +47,7 @@
         "hjholdings.jp",
         "happyon.jp",
         "hulu.jp",
+        "production-public.tubi.io",
         "discoveryplus.in"
       ]
     }
