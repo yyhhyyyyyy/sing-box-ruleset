@@ -836,8 +836,7 @@
         "22.cn",
         "t.cn",
         "6.cn",
-        "3.cn",
-        "chaoxing.cc"
+        "3.cn"
       ],
       "domain_regex": ["^[\\w.-]*?\\.qhimgs[\\w.-]\\.com$"]
     }
