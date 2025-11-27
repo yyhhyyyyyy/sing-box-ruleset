@@ -4,15 +4,23 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "nom.telemetrydeck.com"
+        "nom.telemetrydeck.com",
+        "stat.youpin.mi.com"
       ],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "undefined",
         "null",
+        "getui.net",
+        "easytomessage.com",
+        "getui.com",
         "in.applicationinsights.azure.com",
         "geo2.adobe.com",
-        "beacon.qq.com"
+        "tracking.miui.com",
+        "tracking.intl.miui.com",
+        "beacon.qq.com",
+        "jpush.io",
+        "jpush.cn"
       ]
     }
   ]
