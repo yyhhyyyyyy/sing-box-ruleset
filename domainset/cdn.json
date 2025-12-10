@@ -4,7 +4,6 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "website-cdn",
         "cdn.arcade.software",
         "media.infosec.exchange",
         "static.ada.support",
@@ -902,6 +901,7 @@
         "asset.jamieoliver.com",
         "cdn.jamieoliver.com",
         "media.istockphoto.com",
+        "cdn.ip2location.com",
         "content.invisioncic.com",
         "media.invisioncic.com",
         "static.hugedomains.com",
@@ -2763,6 +2763,7 @@
         "favicons.nextdns.io",
         "cdn.logbase.io",
         "media.lantern.io",
+        "cdn.ipwhois.io",
         "cdn.icomoon.io",
         "assets.holopin.io",
         "geojson.io",
@@ -2790,6 +2791,7 @@
         "cdn.readme.io",
         "favicon.pirsch.io",
         "edge.marker.io",
+        "website-cdn.ipinfo.io",
         "assets.hackmd.io",
         "gohugo.io",
         "cdn-web.fydeos.io",
