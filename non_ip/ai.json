@@ -51,7 +51,8 @@
         "claude.ai",
         "meta.ai",
         "dify.ai",
-        "x.ai"
+        "x.ai",
+        "g.ai"
       ],
       "domain_keyword": ["openai", "alkalimakersuite-pa.clients6.google.com"]
     }
