@@ -4,6 +4,8 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "upos-sz-302ppio.bilivideo.com",
+        "upos-sz-302kodo.bilivideo.com",
         "qn-cdnfile1pcdn.msstatic.com",
         "livewebbs2pcdn.msstatic.com",
         "stun1.douyucdn.cn",
@@ -12,6 +14,7 @@
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "ppio.cloud",
+        "bsccdn.net",
         "yfp2p.net",
         "yfcdn.net",
         "ietheivaicai.com",
@@ -35,7 +38,8 @@
         "cdnnodedns.cn",
         "mcdn.bilivideo.cn",
         "p2perrorlog.douyucdn.cn",
-        "p2plog.douyucdn.cn"
+        "p2plog.douyucdn.cn",
+        "gjfzpt.cn"
       ],
       "domain_keyword": ["-p2p.pull.yximgs.com", "-p2p-v2.pull.yximgs.com"],
       "domain_regex": [
