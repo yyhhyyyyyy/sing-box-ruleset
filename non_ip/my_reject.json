@@ -8,22 +8,48 @@
         "locationhistoryplacedetails-pa.googleapis.com",
         "locationhistoryaggregates-pa.googleapis.com",
         "locationhistory-pa.googleapis.com",
-        "userlocation.googleapis.com"
+        "userlocation.googleapis.com",
+        "contents.meituan.com",
+        "fyb-2.cdn.bcebos.com",
+        "epay.10010.com",
+        "loan-supermarket.faas.ele.me",
+        "push.12306.cn",
+        "ad.12306.cn"
       ],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "0.0.198.in-addr.arpa",
+        "jr.airstarfinance.net",
+        "tongdun.net",
+        "mtvod-ali.meituan.net",
         "mtvod.meituan.net",
+        "unicompayment.com",
+        "easytomessage.com",
         "genuine.autodesk.com",
+        "logan.sankuai.com",
+        "expenses-fe.meituan.com",
+        "video.goofish.com",
         "mibi.xiaomi.com",
+        "ulecdn.com",
+        "video-zb.cloudvideocdn.taobao.com",
         "cool3c.com",
+        "lmk.mipay.com",
+        "ule.com",
         "look.163.com",
         "microfin.ele.me",
         "httpizza.ele.me",
         "adobestats.io",
-        "adobe.io"
+        "adobe.io",
+        "newbuy.chinaunicom.cn",
+        "mall.10010.cn",
+        "pipi.cn"
       ],
-      "domain_keyword": ["bahoom", "-flv.meituan.net", "-live.meituan.net"]
+      "domain_keyword": [
+        "bahoom",
+        "-flv.meituan.net",
+        "-live.meituan.net",
+        "-fin.meituan.com"
+      ]
     }
   ]
 }
