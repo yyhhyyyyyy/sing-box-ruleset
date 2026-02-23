@@ -24,10 +24,10 @@
         "tracking.intl.miui.com",
         "beacon.qq.com",
         "trace.qq.com",
-        "f-log-extension.grammarly.io",
         "jpush.io",
         "jpush.cn"
-      ]
+      ],
+      "domain_regex": ["^f-log[\\w.-]*?\\.grammarly\\.io$"]
     }
   ]
 }
