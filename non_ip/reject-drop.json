@@ -15,6 +15,7 @@
         "telemetry.mozilla.org",
         "getui.net",
         "easytomessage.com",
+        "data.grammarly.com",
         "slackb.com",
         "gepush.com",
         "getui.com",
@@ -24,7 +25,11 @@
         "tracking.intl.miui.com",
         "beacon.qq.com",
         "trace.qq.com",
+        "f-log-extension.grammarly.io",
+        "f-log-assistant.grammarly.io",
+        "femetrics.grammarly.io",
         "jpush.io",
+        "femetrics.qagr.io",
         "jpush.cn"
       ],
       "domain_regex": ["^f-log[\\w.-]*?\\.grammarly\\.io$"]
