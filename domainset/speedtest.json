@@ -4,6 +4,7 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "net-ookla-dc.p.foundation",
         "speedtest.kouten.barcelona",
         "spdtestkpr.myinternet.services",
         "chdspd.myinternet.services",
@@ -2353,6 +2354,7 @@
         "yyc-speedtest.xplore.ca",
         "speed.newmarket.telmax.ca",
         "speed.toronto.telmax.ca",
+        "speed.markham.telmax.ca",
         "speedtest.mtl.telkel.ca",
         "speedtest.switch.ca",
         "speedtest-engine.primus.ca",
@@ -2759,6 +2761,7 @@
         "speedtest.pentanet.com.au",
         "speedtest-limestonecoast-sa.optusnet.com.au",
         "speedtest-limestonecoast.optusnet.com.au",
+        "speedtest-sunshinecoast.optusnet.com.au",
         "speedtest-eastburwood.optusnet.com.au",
         "speedtest-townsville.optusnet.com.au",
         "speedtest-rockingham.optusnet.com.au",
