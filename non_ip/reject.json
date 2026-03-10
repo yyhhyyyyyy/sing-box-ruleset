@@ -313,23 +313,6 @@
         "httpdns.gslb.yy.com",
         "httpdns-v6.gslb.yy.com"
       ],
-      "domain_regex": [
-        "^info\\.[\\w.-]*?\\.aleragroup\\.com$",
-        "^f-log[\\w.-]*?\\.grammarly\\.io$",
-        "^[\\w.-]*?\\.ad\\.[\\w.-]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
-        "^adv0[\\w.-]*?\\.msa\\.cdn\\.mediaset\\.net$",
-        "^v[\\w.-]*?\\.thenewstack\\.io$",
-        "^beacons[\\w.-]*?\\.gvt[\\w.-]\\.com$",
-        "^[\\w.-]*?-pcdn-[\\w.-]*?\\.biliapi\\.net$",
-        "^tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^[\\w.-]*?\\.tracking\\.[\\w.-]*?\\.miui\\.com$",
-        "^ads-[\\w.-]*?\\.xhscdn\\.com$",
-        "^ads-[\\w.-]*?\\.tiktok\\.com$",
-        "^mon-[\\w.-]*?\\.byteoversea\\.com$",
-        "^pixel[\\w.-]*?\\.adswizz\\.com$",
-        "^log[\\w.-]*?-normal-[\\w.-]*?\\.tiktokv\\.com$",
-        "^analytics-[\\w.-]*?\\.aasaam\\.com$"
-      ],
       "ip_cidr": [
         "39.97.128.148/32",
         "39.97.130.51/32",
@@ -382,3 +365,4 @@
     }
   ]
 }
+

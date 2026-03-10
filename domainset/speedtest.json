@@ -950,6 +950,7 @@
         "speedtest-eqxae1.fsg-hosting.com",
         "speedtest-nxts1.fsg-hosting.com",
         "speedtest-nxtb2.fsg-hosting.com",
+        "ns10.fab5network.com",
         "ns1.fab5network.com",
         "testenew.eibroadband.com",
         "speedtest.datonofibra.com",
@@ -1010,6 +1011,7 @@
         "hkspeedtest.netvigator.com",
         "speedtest.lamasatpro.com",
         "sllgooklaspeed1.jioconnect.com",
+        "slgrooklaspeed1.jioconnect.com",
         "shhdooklaspeed1.jioconnect.com",
         "sgmlooklaspeed1.jioconnect.com",
         "sgarooklaspeed1.jioconnect.com",
@@ -2927,3 +2929,4 @@
     }
   ]
 }
+

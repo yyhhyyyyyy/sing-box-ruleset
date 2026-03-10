@@ -31,8 +31,7 @@
         "jpush.io",
         "femetrics.qagr.io",
         "jpush.cn"
-      ],
-      "domain_regex": ["^f-log[\\w.-]*?\\.grammarly\\.io$"]
+      ]
     }
   ]
 }
