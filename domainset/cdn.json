@@ -1285,6 +1285,7 @@
         "cdn.transifex.com",
         "ui.trailhead.com",
         "hawk.tomsguide.com",
+        "assets.tigerdata.com",
         "thumbsnap.com",
         "static.test-beta.com",
         "cdnstatic.tencentcs.com",
@@ -1673,6 +1674,7 @@
         "cdn.datacamp.com",
         "script.custobar.com",
         "cdn.credible.com",
+        "cdn.cr-proxy.com",
         "assets.controld.com",
         "img.connatix.com",
         "cds.connatix.com",
@@ -4439,4 +4441,3 @@
     }
   ]
 }
-
