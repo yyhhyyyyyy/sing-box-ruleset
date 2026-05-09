@@ -21,7 +21,8 @@
         "me.com",
         "appsto.re",
         "apple.co"
-      ]
+      ],
+      "ip_cidr": ["17.0.0.0/8"]
     }
   ]
 }
