@@ -4,15 +4,15 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "itvpnpmobile-a.akamaihd.net",
-        "bbc.mp-pxcdn.com"
+        "bbc.mp-pxcdn.com",
+        "itvpnpmobile-a.akamaihd.net"
       ],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "itv.com",
-        "tvlicensing.co.uk",
+        "bbc.co.uk",
         "bbci.co.uk",
-        "bbc.co.uk"
+        "tvlicensing.co.uk"
       ],
       "domain_keyword": ["bbcfmt", "uk-live"]
     }

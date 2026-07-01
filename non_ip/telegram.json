@@ -5,20 +5,20 @@
       "domain": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "telegram.space",
-        "cdn-telegram.org",
-        "telegram.org",
+        "t.me",
+        "tx.me",
+        "tg.dev",
+        "legra.ph",
         "graph.org",
         "telega.one",
-        "telegram.dog",
-        "tg.dev",
-        "tdesktop.com",
         "telegra.ph",
-        "legra.ph",
         "telesco.pe",
         "telegram.me",
-        "tx.me",
-        "t.me"
+        "tdesktop.com",
+        "telegram.dog",
+        "telegram.org",
+        "telegram.space",
+        "cdn-telegram.org"
       ]
     }
   ]

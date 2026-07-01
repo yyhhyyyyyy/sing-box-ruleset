@@ -4,11 +4,11 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "apple-relay.fastly-edge.com",
-        "apple-relay.cloudflare.com",
         "cp4.cloudflare.com",
         "apple-relay.apple.com",
-        "gspe1-ssl.ls.apple.com"
+        "gspe1-ssl.ls.apple.com",
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com"
       ],
       "domain_suffix": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"]
     }

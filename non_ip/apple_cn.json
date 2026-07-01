@@ -4,18 +4,18 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "api.smoot.apple.cn",
         "gs-loc-cn.apple.com",
-        "appleintelligencefeedback.care.apple.com",
-        "api.smoot.apple.cn"
+        "appleintelligencefeedback.care.apple.com"
       ],
       "domain_suffix": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "gspe19-cn-ssl.ls.apple.com",
-        "cn-ssl.ls.apple.com",
-        "cn.ls.apple.com",
+        "apple.com.cn",
         "cn.apple.com",
         "icloud.com.cn",
-        "apple.com.cn"
+        "cn.ls.apple.com",
+        "cn-ssl.ls.apple.com",
+        "gspe19-cn-ssl.ls.apple.com"
       ]
     }
   ]

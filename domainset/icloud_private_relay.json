@@ -4,12 +4,12 @@
     {
       "domain": [
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
-        "mask.apple-dns.net",
-        "canary.mask.apple-dns.net",
-        "mask-canary.icloud.com",
-        "mask-api.icloud.com",
+        "mask.icloud.com",
         "mask-h2.icloud.com",
-        "mask.icloud.com"
+        "mask.apple-dns.net",
+        "mask-api.icloud.com",
+        "mask-canary.icloud.com",
+        "canary.mask.apple-dns.net"
       ],
       "domain_suffix": ["7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe"]
     }
