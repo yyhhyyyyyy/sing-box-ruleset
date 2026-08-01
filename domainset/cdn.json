@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
         "0x0.st",
         "eep.io",
         "img.gs",
@@ -1519,6 +1519,7 @@
         "cdn.conveythis.com",
         "cdn.datatables.net",
         "cdn.delight-vr.com",
+        "cdn.dictionary.com",
         "cdn.document360.io",
         "cdn.fourthwall.com",
         "cdn.gamemonkey.org",
@@ -1825,6 +1826,7 @@
         "cdn.starapps.studio",
         "cdn.tailwindcss.com",
         "cdn.theatlantic.com",
+        "cdn.theregister.com",
         "cdn.thingiverse.com",
         "cdn.trustedsite.com",
         "cdn.webclicks24.com",
@@ -2346,6 +2348,7 @@
         "icms-image.slatic.net",
         "image-cdn.porndig.com",
         "image.ship.vercel.com",
+        "image.theregister.com",
         "image.worthepenny.com",
         "images-sports.now.com",
         "images.contentful.com",
@@ -3366,7 +3369,7 @@
         "s3-figma-force-client-reloads-production.figma.com"
       ],
       "domain_suffix": [
-        "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
+        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
         "esm.sh",
         "gcr.si",
         "gw3.io",
