@@ -49,12 +49,7 @@
         "expenses-fe.meituan.com",
         "video-zb.cloudvideocdn.taobao.com"
       ],
-      "domain_keyword": [
-        "bahoom",
-        "-flv.meituan.net",
-        "-live.meituan.net",
-        "-fin.meituan.com"
-      ]
+      "domain_keyword": ["bahoom", "-flv.meituan.net", "-live.meituan.net", "-fin.meituan.com"]
     }
   ]
 }
