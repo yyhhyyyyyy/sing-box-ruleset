@@ -2,8 +2,8 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe"],
-      "domain_suffix": ["7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe"],
+      "domain": ["7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe"],
+      "domain_suffix": ["7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe"],
       "ip_cidr": [
         "39.105.63.80/32",
         "45.254.48.1/32",

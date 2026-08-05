@@ -3,14 +3,14 @@
   "rules": [
     {
       "domain": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "stats.grafana.org",
         "stat.youpin.mi.com",
         "dataflow.biliapi.com",
         "nom.telemetrydeck.com"
       ],
       "domain_suffix": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "null",
         "jpush.cn",
         "jpush.io",

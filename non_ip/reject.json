@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "dns.jd.com",
         "ntp.api.bz",
         "dns.m.sm.cn",
@@ -77,7 +77,7 @@
         "httpdns-browser.platform.dbankcloud.cn"
       ],
       "domain_suffix": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "data",
         "bgp.co",
         "hola.hk",

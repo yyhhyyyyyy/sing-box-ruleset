@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "0x0.st",
         "eep.io",
         "img.gs",
@@ -2032,6 +2032,7 @@
         "attach2.mobile01.com",
         "avatars.dicebear.com",
         "avatars.dzeninfra.ru",
+        "basemap.beacondb.net",
         "bcdn.starapps.studio",
         "bcmedia.bitchute.com",
         "boards.greenhouse.io",
@@ -2237,6 +2238,7 @@
         "telemetry.vercel.com",
         "thumbnail.missav.com",
         "thumbnails.cbsig.net",
+        "tiles.locationiq.com",
         "tiles.mapterhorn.com",
         "tiles.openseamap.org",
         "tiles.openskimap.org",
@@ -2281,6 +2283,7 @@
         "assets.sendinblue.com",
         "assets.tatlerasia.com",
         "assets.unicorn.studio",
+        "assets.unredacted.org",
         "assets.vodafone.co.uk",
         "assets0.headwayapp.co",
         "badges.greenkeeper.io",
@@ -2458,6 +2461,7 @@
         "www-cdn.anthropic.com",
         "www-res.cablelabs.com",
         "3dna.nationbuilder.com",
+        "a-tiles.locationiq.com",
         "account-cdn.svc.ui.com",
         "api.pwnedpasswords.com",
         "assets-cdn.abcnews.com",
@@ -2481,8 +2485,10 @@
         "avatar2.bahamut.com.tw",
         "avatars.mds.yandex.net",
         "az700632.vo.msecnd.net",
+        "b-tiles.locationiq.com",
         "backinstock.useamp.com",
         "brick.a.ssl.fastly.net",
+        "c-tiles.locationiq.com",
         "cache-05.filehippo.net",
         "cached.rebuyengine.com",
         "cdn-c.leavemealone.com",
@@ -3373,7 +3379,7 @@
         "s3-figma-force-client-reloads-production.figma.com"
       ],
       "domain_suffix": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "esm.sh",
         "gcr.si",
         "gw3.io",

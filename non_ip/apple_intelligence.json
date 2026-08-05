@@ -3,14 +3,14 @@
   "rules": [
     {
       "domain": [
-        "7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe",
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "cp4.cloudflare.com",
         "apple-relay.apple.com",
         "gspe1-ssl.ls.apple.com",
         "apple-relay.cloudflare.com",
         "apple-relay.fastly-edge.com"
       ],
-      "domain_suffix": ["7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe"]
+      "domain_suffix": ["7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe"]
     }
   ]
 }
