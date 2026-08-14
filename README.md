@@ -1,10 +1,12 @@
+
+
 # 自用sing-box规则集
 
 原规则集来源 **[SukkaW](https://github.com/SukkaW/Surge)**
 
 使用方法：
 
-在singbox.json配置文件中的rule_set引用.srs二进制文件即可
+在 `singbox.json` 配置文件的 `route.rule_set` 中引用 `.srs` 二进制文件即可（需添加 `"format": "binary"` 字段）。
 
 具体可参考：
 
