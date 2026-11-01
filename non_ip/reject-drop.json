@@ -4,6 +4,7 @@
     {
       "domain": [
         "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
+        "api.segment.io",
         "data.bilibili.com",
         "stats.grafana.org",
         "stat.youpin.mi.com",
@@ -21,6 +22,7 @@
         "gepush.com",
         "slackb.com",
         "trace.qq.com",
+        "amplitude.com",
         "beacon.qq.com",
         "geo2.adobe.com",
         "easytomessage.com",
