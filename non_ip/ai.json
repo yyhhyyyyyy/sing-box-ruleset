@@ -4,7 +4,9 @@
     {
       "domain": [
         "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
+        "claude.site",
         "ai.google.dev",
+        "cloud.zed.dev",
         "openrouter.ai",
         "api.github.com",
         "api.jetbrains.ai",
@@ -12,14 +14,17 @@
         "antigravity.google",
         "server.codeium.com",
         "aida.googleapis.com",
+        "aicode.googleapis.com",
         "inference.codeium.com",
         "antigravity-unleash.goog",
         "gateway.ai.cloudflare.com",
         "aisandbox-pa.googleapis.com",
+        "bridge.claudeusercontent.com",
         "server.self-serve.windsurf.com",
         "robinfrontend-pa.googleapis.com",
         "alkalicore-pa.clients6.google.com",
-        "daily-cloudcode-pa.googleapis.com"
+        "daily-cloudcode-pa.googleapis.com",
+        "daily-cloudcode-pa.sandbox.googleapis.com"
       ],
       "domain_suffix": [
         "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
